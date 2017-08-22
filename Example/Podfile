@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ITU-T_Example' do
+  pod 'ITU-T', :path => '../'
+
+  target 'ITU-T_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
