@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'ITU-T_Example' do
   pod 'ITU-T', :path => '../'
+  pod "ISO3166", :path => "../../ISO3166"
 
   target 'ITU-T_Tests' do
     inherit! :search_paths

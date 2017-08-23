@@ -1,0 +1,1546 @@
+测试:001:01:测试:测试网络:营运中:GSM 900 / GSM 1800:用于GSM测试环境
+GE:289:67:Aquafon:Aquafon:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+GE:289:88:A-Mobile:A-Mobile:营运中:GSM 900 / UMTS 2100:NULL
+AF:412:01:AWCC:Afghan Wireless Communication Company:营运中:GSM 900 / GSM 1800:NULL
+AF:412:20:Roshan:Telecom Development Company Afghanistan Ltd.:营运中:GSM 900:NULL
+AF:412:40:MTN:MTN Group:营运中:GSM 900 / GSM 1800:NULL
+AF:412:50:Etisalat:Etisalat Afghanistan:营运中:GSM 900 / GSM 1800:NULL
+AL:276:01:AMC:Albanian Mobile Communications:营运中:GSM 900 / GSM 1800:NULL
+AL:276:02:Vodafone:Vodafone Albania:营运中:GSM 900 / GSM 1800:NULL
+AL:276:03:Eagle Mobile:Eagle Mobile:营运中:GSM 900 / GSM 1800:NULL
+AL:276:04:Plus Communication:Plus Communication:营运中:GSM 900 / GSM 1800:NULL
+DZ:603:01:Mobilis:ATM Mobilis:营运中:GSM 900:NULL
+DZ:603:02:Djezzy:Orascom Telecom Algerie Spa:营运中:GSM 900 / GSM 1800:NULL
+DZ:603:03:Nedjma:Wataniya Telecom Algerie:营运中:GSM 900 / GSM 1800:NULL
+AS:544:11:Bluesky:Bluesky:营运中:GSM:NULL
+AD:213:03:Mobiland:Servei De Tele. DAndorra:营运中:GSM 900:NULL
+AO:631:02:UNITEL:UNITEL S.a.r.l.:营运中:GSM 900 / GSM 1800:NULL
+AO:631:04:MOVICEL:MOVICEL Telecommunications S.a.:营运中:GSM 900 / UMTS 900:NULL
+AI:365:010:NULL:Weblinks Limited:营运中:NULL:NULL
+AI:365:840:NULL:Cable & Wireless:营运中:NULL:NULL
+AG:344:030:APUA:Antigua Public Utilities Authority:营运中:GSM 1900:NULL
+AG:344:920:LIME:Cable & Wireless Caribbean Cellular (Antigua) Limited:营运中:GSM 850 / GSM 1800/ GSM 1900:NULL
+AG:338:050:Digicel:Antigua Wireless Ventures Limited:营运中:GSM 900 / GSM 1900:NULL
+AR:722:010:Movistar:Telefonica Móviles Argentina SA:营运中:GSM 850 / GSM 1900:NULL
+AR:722:020:Nextel:NII Holdings:营运中:iDEN 800:NULL
+AR:722:070:Movistar:Telefonica Móviles Argentina SA:营运中:GSM 1900:NULL
+AR:722:310:Claro:AMX Argentina S.A:营运中:GSM 1900:NULL
+AR:722:320:Claro:AMX Argentina S.A:营运中:GSM 850 / GSM 1900:NULL
+AR:722:330:Claro:AMX Argentina S.A:营运中:GSM 850 / GSM 1900:NULL
+AR:722:34:Personal:Telecom Personal SA:营运中:NULL:NULL
+AR:722:341:Personal:Telecom Personal SA:营运中:GSM 850 / GSM 1900:NULL
+AR:722:350:NULL:Hutchinson (PORT HABLE):NULL:GSM 900:NULL
+AR:722:36:Personal:Telecom Personal SA:NULL:NULL:NULL
+AM:283:01:Beeline:ArmenTel:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+AM:283:05:VivaCell-MTS:K Telecom CJSC:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+AM:283:10:Orange:NULL:营运中:GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900:NULL
+AW:363:01:SETAR:Servicio di Telecomunicacion di Aruba:营运中:GSM 900 / GSM 1900 / TDMA 800:NULL
+AW:363:02:Digicel:NULL:营运中:GSM 900 / GSM 1800 / HSPA+ 2100:NULL
+AU:505:01:Telstra:Telstra Corporation Limited:营运中:GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100:NULL
+AU:505:02:Optus:Singtel Optus Proprietary Limited:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:NULL
+AU:505:03:沃达丰:沃达丰和记澳大利亚:营运中:GSM 900 / GSM 1800 / UMTS 850 / UMTS 900 / UMTS 2100:NULL
+AU:505:04:NULL:Department of Defence:营运中:不明:Private network, utilizing secure frequencies.
+AU:505:05:Ozitel:NULL:非营运中:NULL:品牌已被
+AU:505:06:3:沃达丰和记澳大利亚:营运中:UMTS 2100:NULL
+AU:505:08:One.Tel:One.Tel Limited:非营运中:GSM 900:品牌已被收购。
+AU:505:09:Airnet:NULL:非营运中:NULL:已停止提供移动网络服务。
+AU:505:12:3:沃达丰和记澳大利亚:营运中:UMTS 2100:NULL
+AU:505:13:Railcorp:Rail Corporation New South Wales:Reserved:GSM 1800:只供
+AU:505:14:AAPT:Telecom New Zealand:营运中:GSM 1800 / UMTS 2100:由沃达丰和记澳大利亚拥有。
+AU:505:15:3GIS:NULL:非营运中:NULL:被沃达丰和记澳大利亚所收购
+AU:505:16:Victorian Rail Track:NULL:Reserved:GSM 1800:数字铁路电台系统。Starting to be seen.
+AU:505:21:SOUL:TPG Telecom Limited:不明:MVNO:Also known as 
+AU:505:24:Advance Communications Technologies Pty. Ltd.:NULL:不明:不明:NULL
+AU:505:38:Crazy John's:沃达丰和记澳大利亚:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:部分已登记用户由
+AU:505:71:Telstra:Telstra Corporation Limited:营运中:不明:NULL
+AU:505:72:Telstra:Telstra Corporation Limited:营运中:不明:NULL
+AU:505:88:Localstar Holding Pty. Ltd.:NULL:非营运中:NULL:Globalstar Satellite
+AU:505:90:Optus:Singtel Optus Proprietary Limited:营运中:不明:NULL
+AU:505:99:One.Tel:One.Tel:非营运中:GSM 1800:Brand was dissolved. Rail operators purchased 1800 spectrum.
+AT:232:01:A1:A1 Telekom Austria:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+AT:232:03:T-Mobile:T-Mobile Austria:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+AT:232:05:Orange:Orange Austria:营运中:GSM 900 / GSM 1800 / UMTS 2100:former One
+AT:232:07:tele.ring:T-Mobile Austria:营运中:GSM 1800:separate brand operated by T-Mobile
+AT:232:09:A1:A1 Telekom Austria:营运中:NULL:NULL
+AT:232:10:3:Hutchison 3G:营运中:UMTS 2100:NULL
+AT:232:11:bob:A1 Telekom Austria:营运中:MVNO:uses the A1 network
+AT:232:12:yesss:NULL:营运中:MVNO:uses the Orange network
+AT:232:14:3:Hutchison 3G:NULL:Test:NULL
+AT:232:15:Barablu:Barablu Mobile Ltd.:营运中:MVNO:NULL
+AT:232:91:GSM-R A:ÖBB:营运中:GSM-R:铁路通信
+AZ:400:01:Azercell电信:NULL:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+AZ:400:02:Bakcell:NULL:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+AZ:400:03:FONEX:CATEL:营运中:CDMA2000:NULL
+AZ:400:04:Nar Mobile:Azerfon:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+BS:364:390:BaTelCo:The Bahamas Telecommunications Company Ltd:营运中:GSM 1900:NULL
+BH:426:01:Batelco:Bahrain Telecommunications Company:营运中:GSM 900 / GSM 1800:NULL
+BH:426:02:zain BH:Zain Bahrain:营运中:GSM 900 / GSM 1800:NULL
+BH:426:04:VIVA:Viva Bahrain:营运中:GSM 900 / GSM 1800:NULL
+BD:470:01:Grameenphone:GrameenPhone Ltd:营运中:GSM 900:NULL
+BD:470:02:Robi:Axiata Bangladesh Ltd.:营运中:GSM 900:Formerly Aktel 
+BD:470:03:Banglalink:Orascom Telecom Holding:营运中:GSM 900:NULL
+BD:470:04:TeleTalk:NULL:营运中:GSM 900 / GSM 1800:NULL
+BD:470:05:Citycell:NULL:营运中:CDMA2000 800:NULL
+BD:470:06:Airtel:Bharti airtel Bangladesh Ltd.:营运中:GSM 900 / GSM 1800:Now Airtel
+BB:342:600:LIME:LIME (formerly known as Cable & Wireless):营运中:GSM 1900:NULL
+BB:342:750:Digicel:Digicel (Barbados) Limited:营运中:GSM 900 / GSM 1800:NULL
+BB:342:820:NULL:Sunbeach Communications:Reserved:NULL:NULL
+BY:257:01:velcom:NULL:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+BY:257:02:MTS:Mobile TeleSystems:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+BY:257:03:DIALLOG:BelCel:营运中:CDMA2000:NULL
+BY:257:04:life:):Belarussian Telecommunications Network:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former BeST
+BY:257:501:BelCel JV:NULL:NULL:NULL:NULL
+BE:206:01:Proximus:Belgacom Mobile:营运中:GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900:NULL
+BE:206:05:Telenet:Telenet:营运中:NULL:MVNO using Mobistar's Network 
+BE:206:10:Mobistar:France Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+BE:206:20:BASE:KPN:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+BZ:702:67:DigiCell:Belize Telemedia:营运中:GSM 1900:NULL
+BZ:702:99:Smart:SpeedNet Communications Limited:营运中:CDMA2000:NULL
+BJ:616:01:Libercom:Benin Telecoms Mobile:营运中:GSM 900 / GSM 1800:NULL
+BJ:616:02:Moov:Telecel Benin:营运中:GSM 900:NULL
+BJ:616:03:MTN:Spacetel Benin:营运中:GSM 900:Former BeninCell, Areeba
+BJ:616:04:BBCOM:Bell Benin Communications:营运中:GSM 900:NULL
+BJ:616:05:Glo:Glo Communication Benin:营运中:GSM 900 / GSM 1800:NULL
+BM:350:01:Digicel Bermuda:Telecommunications (Bermuda & West Indies) Ltd:Reserved:GSM 1900:NULL
+BM:350:02:Mobility:M3 Wireless:营运中:GSM 1900:NULL
+BM:338:050:Digicel Bermuda:NULL:营运中:GSM 1900:NULL
+BM:310:59:Cellular One:NULL:营运中:CDMA2000:NULL
+BT:402:11:B-Mobile:B-Mobile:营运中:GSM 900:NULL
+BT:402:77:TashiCell:Tashi InfoComm Limited:营运中:GSM 900 / GSM 1800:NULL
+BO:736:01:Nuevatel:Nuevatel PCS De Bolivia SA:营运中:GSM 1900:NULL
+BO:736:02:Entel:Entel SA:营运中:GSM 1900:NULL
+BO:736:03:Tigo:Telefonica Celular De Bolivia S.A:营运中:GSM 850:Aka. Telecel Bolivia
+BA:218:03:HT-ERONET:Public Enterprise Croatian Telecom Ltd.:营运中:GSM 900:NULL
+BA:218:05:m:tel:RS Telecommunications JSC Banja Luka:营运中:GSM 900 / GSM 1800 / UMTS 2100:Mobilna Srpske
+BA:218:90:BH Mobile:BH Telecom:营运中:GSM 900 / GSM 1800:NULL
+BW:652:01:Mascom:Mascom Wireless (Pty) Limited:营运中:GSM 900:NULL
+BW:652:02:Orange:Orange (Botswana) Pty Limited:营运中:GSM 900:formerly Vista Cellular 
+BW:652:04:BTC Mobile:Botswana Telecommunications Corporation:营运中:GSM 900 / GSM 1800:NULL
+BR:724:00:Nextel:NII Holdings, Inc.:营运中:IDEN 850:NULL
+BR:724:02:TIM:Telecom Italia Mobile:营运中:GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100:NULL
+BR:724:03:TIM:Telecom Italia Mobile:营运中:GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100:NULL
+BR:724:04:TIM:Telecom Italia Mobile:营运中:GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100:NULL
+BR:724:05:Claro BR:Claro:营运中:GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100:NULL
+BR:724:06:Vivo:Vivo S.A.:营运中:GSM 850/900/1800/1900 / UMTS 850 / UMTS 2100:NULL
+BR:724:07:Sercomtel:Sercomtel Celular:营运中:GSM 900 / GSM 1800 / UMTS 850:NULL
+BR:724:10:Vivo:Vivo S.A.:营运中:GSM 850/900/1800/1900 / UMTS 850 / UMTS 2100:NULL
+BR:724:11:Vivo:Vivo S.A.:营运中:GSM 850/900/1800/1900 / UMTS 850 / UMTS 2100:NULL
+BR:724:15:CTBC Celular:CTBC Celular S.A.:营运中:GSM 900/1800 UMTS 850 / UMTS 2100mhz:NULL
+BR:724:16:Brasil Telecom GSM:Brasil Telecom GSM:Phasing out:GSM 1800 / UMTS 2100:Oi
+BR:724:23:Vivo:Vivo S.A.:营运中:GSM 850/900/1800/1900 / UMTS 850 / UMTS 2100:NULL
+BR:724:31:Oi:TNL PCS:营运中:GSM 1800 / UMTS 2100:NULL
+BR:724:32:CTBC Celular:CTBC Celular S.A.:营运中:GSM 900/1800 UMTS 850 / UMTS 2100mhz:NULL
+BR:724:33:CTBC Celular:CTBC Celular S.A.:营运中:GSM 900/1800 UMTS 850 / UMTS 2100mhz:NULL
+BR:724:34:CTBC Celular:CTBC Celular S.A.:营运中:GSM 900/1800 UMTS 850 / UMTS 2100mhz:NULL
+BR:724:39:Nextel:NII Holdings, Inc.:Deploying:UMTS 2100:NULL
+VG:348:170:LIME:Cable & Wireless:营运中:GSM 850:NULL
+VG:348:570:CCT Boatphone:Caribbean Cellular Telephone:营运中:GSM 900 / GSM 1900:NULL
+VG:348:770:Digicel:Digicel (BVI) Limited:营运中:GSM 1800 / GSM 1900:NULL
+BN:528:01:NULL:Jabatan Telekom Brunei:NULL:NULL:NULL
+BN:528:02:B-Mobile:B-Mobile Communications Sdn Bhd:营运中:UMTS 2100:NULL
+BN:528:11:DSTCom:Data Stream Technology:营运中:GSM 900 / UMTS 2100:NULL
+BG:284:01:M-Tel:Mobiltel:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+BG:284:03:Vivacom:BTC:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:Former 
+BG:284:04:Undisclosed:Undisclosed:Reserved:GSM 1800:Purchased on 22 Jul 2010. Pending formal announcement.
+BG:284:05:GLOBUL:Cosmo Bulgaria Mobile:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+BF:613:01:Telmob:Onatal:营运中:GSM 900:[7]
+BF:613:02:Zain:Celtel Burkina Faso:营运中:GSM 900:NULL
+BF:613:03:Telecel Faso:Telecel Faso SA:营运中:GSM 900:[8]
+BI:642:01:Spacetel:Econet Wireless Burundi PLC:营运中:GSM 900:NULL
+BI:642:02:Africell:Africell PLC:营运中:GSM 900:Was Safaris
+BI:642:03:Onatel:Onatel:营运中:GSM 900:NULL
+BI:642:07:Smart Mobile:LACELL SU:营运中:GSM 1800:NULL
+BI:642:08:HiTs Telecom:HiTs Telecom:Reserved:GSM ???:NULL
+BI:642:82:U-COM Burundi:U-COM Burundi S.A.:营运中:GSM 900:formerly Telecel 
+KH:456:01:Mobitel:CamGSM:营运中:GSM 900 / UMTS 2100:NULL
+KH:456:02:hello:Telekom Malaysia International (Cambodia) Co. Ltd:营运中:GSM 900:NULL
+KH:456:03:NULL:S Telecom:Reserved:CDMA2000:NULL
+KH:456:04:qb:Cambodia Advance Communications Co. Ltd:营运中:GSM 1800 / UMTS 2100:NULL
+KH:456:05:Star-Cell:APPLIFONE CO. LTD.:营运中:GSM 1800:NULL
+KH:456:06:Smart Mobile:Latelz Co., Ltd:营运中:GSM 1800:NULL
+KH:456:18:Mfone:Camshin / Shinawatra:营运中:GSM 1800:NULL
+KH:456:11:Seatel:South East Asia Telecom Group:营运中:LTE-FDD 850:NULL
+KH:456:09:Beeline:Sotelco Ltd.:营运中:GSM 900 / GSM 1800:NULL
+KH:456:08:Metfone:Viettel:营运中:GSM 900 / GSM 1800:NULL
+CM:624:01:MTN Cameroon:Mobile Telephone Network Cameroon Ltd:营运中:GSM 900:NULL
+CM:624:02:Orange:Orange Cameroun S.A.:营运中:GSM 900:NULL
+CM:624:03:camtel:NULL:营运中:cdma2000:NULL
+CA:302:220:Telus:Telus Mobility:营运中:UMTS 850 / UMTS 1900:Used in IMSI to identify Telus subscribers on shared network 302-880
+CA:302:221:Telus:Telus Mobility:NULL:NULL:NULL
+CA:302:270:NULL:EastLink:Testing:UMTS 1700:NULL
+CA:302:290:NULL:Airtel Wireless:营运中:iDEN 900:NULL
+CA:302:320:Mobilicity:DAVE Wireless:营运中:UMTS 1700:May 2010
+CA:302:350:FIRST:FIRST Networks Operations:营运中:GSM 850:March 2008
+CA:302:360:MiKe:Telus Mobility:营运中:iDEN 800:NULL
+CA:302:361:Telus:Telus Mobility:营运中:CDMA2000 800 / CDMA2000 1900:NULL
+CA:302:370:Fido:Fido Solutions:营运中:GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900:former Microcell Telecommunications
+CA:302:380:DMTS:Dryden Mobility:营运中:GSM 850:NULL
+CA:302:490:WIND Mobile:Globalive Communications:营运中:UMTS 1700:NULL
+CA:302:500:Videotron:Videotron:营运中:UMTS 1700:NULL
+CA:302:510:Videotron:Videotron:营运中:UMTS 1700:NULL
+CA:302:610:Bell:Bell Mobility:营运中:UMTS 850 / UMTS 1900:Used in IMSI to identify Bell subscribers on shared network 302-880
+CA:302:610:Bell:Virgin Mobile Canada:营运中:UMTS 850 / UMTS 1900:Used in IMSI to identify Bell subscribers on shared network 302-880
+CA:302:620:ICE Wireless:ICE Wireless:营运中:GSM 1900:NULL
+CA:302:640:Bell:Bell Mobility:营运中:CDMA2000 800 / CDMA2000 1900:NULL
+CA:302:652:NULL:BC Tel Mobility (Telus):营运中:CDMA2000:NULL
+CA:302:653:Telus:Telus Mobility:营运中:CDMA2000 800 / CDMA2000 1900:NULL
+CA:302:655:MTS:MTS Mobility:营运中:CDMA2000 800 / CDMA2000 1900:former Manitoba Telephone System
+CA:302:656:TBay:Thunder Bay Telephone:营运中:CDMA2000:NULL
+CA:302:657:Telus:Telus Mobility:营运中:CDMA2000 800 / CDMA2000 1900:NULL
+CA:302:660:MTS:MTS Mobility:营运中:UMTS 850 / UMTS 1900:NULL
+CA:302:680:SaskTel:SaskTel Mobility:营运中:CDMA2000 800 / CDMA2000 1900:NULL
+CA:302:701:NULL:MB Tel Mobility:营运中:CDMA2000:NULL
+CA:302:702:NULL:MT&T Mobility (Aliant):营运中:CDMA2000:NULL
+CA:302:703:NULL:New Tel Mobility (Aliant):营运中:CDMA2000:NULL
+CA:302:710:Globalstar:NULL:营运中:NULL:NULL
+CA:302:720:Rogers Wireless:Rogers Communications:营运中:GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900:former Rogers AT&T Wireless
+CA:302:780:SaskTel:SaskTel Mobility:营运中:UMTS 850 / UMTS 1900:NULL
+CA:302:880:Bell:Shared Telus, Bell, and SaskTel:营运中:UMTS 850 / UMTS 1900:NULL
+CV:625:01:CVMOVEL:CVMovel, S.A.:Operationa / GSM 1800:NULL:NULL
+CV:625:02:T+:T+:营运中:GSM 900:NULL
+KY:346:140:LIME:Cable & Wireless (Cayman Islands) Limited:营运中:GSM 850 / GSM 1900:NULL
+KY:346:050:Digicel:Digicel Cayman Ltd.:营运中:GSM 900 / GSM 1800:NULL
+CF:623:01:CTP:Centrafrique Telecom Plus:营运中:GSM 900:NULL
+CF:623:02:TC:Telecel Centrafrique:营运中:GSM 900:NULL
+CF:623:03:Orange:Orange RCA:Reserved:GSM 1800:NULL
+CF:623:04:Nationlink:Nationlink Telecom RCA:营运中:GSM 900:NULL
+TD:622:01:Airtel:Bharti Airtel SA:营运中:GSM 900:NULL
+TD:622:02:NULL:Tchad Mobile:营运中:GSM 900:NULL
+TD:622:03:NULL:TIGO - Millicom:营运中:GSM 900:NULL
+TD:622:02:TAWALI:NULL:营运中:CDMA2000:NULL
+TD:622:04:Salam:Sotel Mobile:营运中:GSM 900:NULL
+CL:730:01:entel:Entel PCS Telecomunicaciones S.A.:营运中:GSM 1900 / UMTS 1900:NULL
+CL:730:02:movistar:Telefónica Móvil de Chile:营运中:GSM 850 / UMTS 850 / UMTS 1900:NULL
+CL:730:03:Claro:Claro Chile S.A.:营运中:GSM 1900 / UMTS 1900 / UMTS 850:NULL
+CL:730:04:Nextel:Centennial Cayman Corp. Chile:营运中:iDEN 800:NULL
+CL:730:08:VTR Móvil:VTR S.A.:营运中:UMTS 1700 / UMTS 2100:NULL
+CL:730:09:Nextel:Centennial Cayman Corp. Chile:营运中:UMTS 1700 / UMTS 2100:NULL
+CL:730:10:entel:Entel Telefonía Móvil S.A.:营运中:GSM 1900 / UMTS 1900:NULL
+CL:730:99:Will:WILL Telefonía:营运中:GSM 1900 / UMTS 1900 (Residential).:NULL
+CN:460:00:中国移动:中国移动:营运中:GSM 900 / GSM 1800 / TD-SCDMA 1880 / TD-SCDMA 2010 / TD-LTE 1800/2300/2600:NULL
+CN:460:01:中国联通:中国联通:营运中:GSM 900 / GSM 1800 / UMTS 2100 / TD-LTE 2300/2600 / FDD-LTE 1800/2100:CDMA网络出售给
+CN:460:02:中国移动:中国移动:营运中:GSM 900 / GSM 1800 / TD-SCDMA 1880 / TD-SCDMA 2010:NULL
+CN:460:03:中国电信:中国电信:营运中:CDMA2000 800 / CDMA2000 2100 / TD-LTE 2300/2600 / FDD-LTE 1800/2100 / EV-DO / eHRPD:NULL
+CN:460:05:中国电信:中国电信:营运中:NULL:NULL
+CN:460:06:中国联通:中国联通:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+CN:460:07:中国移动:中国移动:营运中:GSM 900 / GSM 1800 / TD-SCDMA 1880 / TD-SCDMA 2010:NULL
+CN:460:11:中国电信:中国电信:营运中:CDMA2000 800 / CDMA2000 2100 / TD-LTE 2300/2600 / FDD-LTE 1800/2100 / EV-DO / eHRPD:NULL
+CN:460:20:中国铁通:中国铁通:营运中:GSM-R:NULL
+CO:732:001:NULL:Colombia Telecomunicaciones S.A.:营运中:NULL:NULL
+CO:732:002:Edatel:Edatel S.A.:营运中:NULL:NULL
+CO:732:101:Comcel:Comcel Colombia:营运中:GSM 850 / GSM 1900:NULL
+CO:732:102:movistar:Bellsouth Colombia:营运中:GSM 850 / GSM 1900 / CDMA2000 850:NULL
+CO:732:103:Tigo:Colombia Móvil:营运中:GSM 1900:NULL
+CO:732:111:Tigo:Colombia Móvil:营运中:GSM 1900:NULL
+CO:732:123:movistar:Telefónica Móviles Colombia:营运中:GSM 850 / GSM 1900 / CDMA2000 850:NULL
+KM:654:01:NULL:HURI - SNPT:营运中:NULL:NULL
+CG:629:01:Airtel:Celtel Congo:营运中:GSM 900:Former Zain and Celtel brand 
+CG:629:10:Libertis Telecom:MTN CONGO S.A:营运中:GSM 900:NULL
+CG:629:07:NULL:Warid Telecom:营运中:GSM 900:NULL
+CK:548:01:NULL:Telecom Cook:营运中:GSM 900:NULL
+CR:712:01:Kolbi ICE:Instituto Costarricense de Electricidad:营运中:GSM 1800, UMTS/HSPA+ 850:Network Name: Kolbi ICE
+CR:712:02:Kolbi ICE:Instituto Costarricense de Electricidad:营运中:GSM 1800, UMTS/HSPA+ 850:Network Name: Kolbi ICE
+CR:712:03:Claro:Claro CR Telecomunicaciones:营运中:GSM 1800 / UMTS 2100:Network Name: Claro
+CR:712:04:movistar:Telefonica Móviles Costa Rica:营运中:GSM 1800, UMTS/HSPA 850/2100:Network Name: movistar
+HR:219:01:T-Mobile:T-Mobile:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+HR:219:02:Tele2:Tele2:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+HR:219:10:Vip:Vipnet:营运中:GSM 900 / UMTS 2100:NULL
+CU:368:01:CUBACEL:Empresa de Telecomunicaciones de Cuba, SA:营运中:GSM 900 / GSM 850:NULL
+CY:280:01:Cytamobile-Vodafone:Cyprus Telecommunications Auth:营运中:GSM 900 / GSM 1800:NULL
+CY:280:10:MTN:Areeba Ltd:营运中:GSM 900 / GSM 1800:NULL
+CZ:230:01:T-Mobile:T-Mobile:营运中:GSM 1900 / GSM 1800 / UMTS 2100:former Paegas
+CZ:230:02:O:Telefónica Czech Republic:营运中:CDMA2000 450 / GSM 900 / GSM 1800 / UMTS 2100:former Eurotel
+CZ:230:03:Vodafone:Vodafone Czech Republic:营运中:GSM 900 / GSM 1800 / UMTS 2100:former Oskar
+CZ:230:04:U:fon:MobilKom, a. s.:营运中:CDMA2000 410 - 430:NULL
+CZ:230:05:NULL:TRAVEL TELEKOMMUNIKATION, s.r.o.:NULL:NULL:NULL
+CZ:230:06:NULL:OSNO TELECOMUNICATION, s.r.o.:NULL:NULL:NULL
+CZ:230:98:NULL:Správa železniční dopravní cesty, s.o.:营运中:GSM-R 900:railways communication
+CZ:230:99:Vodafone:Vodafone Czech Republic:营运中:GSM 1800:R&D Centre at FEE, 
+CD:630:01:Vodacom:Vodacom Congo RDC sprl:营运中:GSM 900 / GSM 1800:NULL
+CD:630:02:Zain:Celtel Congo:营运中:GSM 900:NULL
+CD:630:04:NULL:Cellco:NULL:NULL:NULL
+CD:630:05:Supercell:Supercell SPRL:营运中:GSM 900 / GSM 1800:NULL
+CD:630:10:Libertis Telecom:NULL:营运中:NULL:NULL
+CD:630:86:CCT:Congo-Chine Telecom s.a.r.l.:营运中:GSM 900 / GSM 1800:NULL
+CD:630:89:SAIT Telecom:OASIS SPRL:营运中:GSM 1800:NULL
+CD:630: ?:Africell:Africell RDC sprl:营运中:GSM 900:NULL
+DK:238:01:TDC:TDC A/S:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DK:238:02:Telenor:Telenor Denmark:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former Sonofon
+DK:238:03:NULL:MIGway A/S:Reserved:NULL:NULL
+DK:238:05:NULL:ApS KBUS:Reserved:NULL:NULL
+DK:238:06:3:Hi3G Denmark ApS:营运中:UMTS 2100:NULL
+DK:238:07:NULL:Barablu Mobile Ltd.:Reserved:NULL:NULL
+DK:238:09:NULL:Dansk Beredskabskommunikation A/S:NULL:-:NULL
+DK:238:10:TDC:TDC A/S:营运中:NULL:For experimental use
+DK:238:11:NULL:Dansk Beredskabskommunikation A/S:NULL:NULL:NULL
+DK:238:12:NULL:Lycamobile Denmark Ltd:NULL:NULL:NULL
+DK:238:20:Telia:NULL:营运中:GSM 900 / GSM 1800:NULL
+DK:238:30:Telia:Telia Nättjänster Norden AB:营运中:GSM 900 / GSM 1800:NULL
+DK:238:40:NULL:Ericsson Danmark A/S:NULL:NULL:For experimental use.
+DK:238:77:Telenor:Telenor Denmark:营运中:GSM 900 / GSM 1800:Former Tele2
+DJ:638:01:Evatis:Djibouti Telecom SA:营运中:GSM 900:NULL
+DM:366:020:Digicel:Digicel Group Limited:营运中:GSM 900 / GSM 1900:Digicel acquired Orange Dominica in 2009
+DM:366:110:NULL:Cable & Wireless:营运中:GSM 850:NULL
+DO:370:01:Orange:Orange Dominicana:营运中:GSM 900 / GSM 1800 / 1900 / UMTS 900:NULL
+DO:370:02:Claro:Compañía Dominicana de Teléfonos, C por:营运中:CDMA2000 1900 / GSM 850 / GSM 1900 / UMTS 850:NULL
+DO:370:03:Tricom:Tricom S.A.:营运中:AMPS / IS-95A 800:CDMA2000 1900
+DO:370:04:Viva:Trilogy Dominicana, S.A.:营运中:CDMA2000 1900 / GSM 1900:前Centennial Dominicana
+TL:514:02:NULL:Timor Telecom:营运中:GSM 900:NULL
+EC:740:00:Movistar:Otecel S.A.:营运中:GSM 850 / UMTS 900 / UMTS 1900:Former BellSouth
+EC:740:01:Claro:CONECEL S.A.:营运中:GSM 850 / UMTS 900 / UMTS 1900:NULL
+EC:740:02:Alegro:Corporación Nacional de Telecomunicaciones CNT EP:营运中:GSM 850 / CDMA2000 1900:NULL
+EG:602:01:Mobinil:ECMS-Mobinil:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+EG:602:02:Vodafone:Vodafone Egypt:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former Click
+EG:602:03:Etisalat:Etisalat Egypt:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SV:706:01:CTE Telecom Personal:CTE Telecom Personal SA de CV:营运中:GSM 1900:NULL
+SV:706:02:digicel:Digicel Group:营运中:GSM 900:NULL
+SV:706:03:Tigo:Telemovil EL Salvador S.A.:营运中:GSM 850:Tigo / Millicom
+SV:706:04:movistar:Telefónica Móviles El Salvador:营运中:CDMA2000 850 / GSM 850:NULL
+SV:706:11:Claro:América Móvil:营运中:GSM 1900 / UMTS 1900:NULL
+GQ:627:01:Orange GQ:GETESA:营运中:GSM 900:NULL
+GQ:627:03:Hits GQ:HiTs EG.SA:营运中:GSM 900 / GSM 1800:NULL
+GQ:627:04:GECOMSA:GECOMSA:营运中:CDMA2000:NULL
+ER:657:01:Eritel:Eritrea Telecommunications Services Corporation:营运中:GSM 900:NULL
+EE:248:01:EMT:Estonian Mobile Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+EE:248:02:Elisa:Elisa Eesti:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:NULL
+EE:248:03:Tele 2:Tele 2 Eesti:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+EE:248:04:NULL:OY Top Connect:NULL:NULL:NULL
+EE:248:05:NULL:AS Bravocom Mobiil:NULL:NULL:NULL
+EE:248:06:NULL:Progroup Holding:营运中:UMTS 2100:NULL
+ET:636:01:ETH-MTN:Ethio Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+FO:288:01:Faroese Telecom:Faroese Telecom:营运中:GSM 900:NULL
+FO:288:02:Vodafone:Vodafone Faroe Islands:营运中:GSM 900:Former Kall
+FJ:542:01:Vodafone:Vodafone Fiji:营运中:GSM 900 / UMTS 2100:NULL
+FJ:542:02:Digicel:Digicel Fiji:营运中:GSM 900:NULL
+FI:244:03:DNA:DNA Oy:营运中:GSM 1800:Former Telia
+FI:244:05:Elisa:Elisa Oyj:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:Former Radiolinja
+FI:244:07:Nokia:Nokia Test Network:营运中:NULL:NULL
+FI:244:08:NULL:NULL:营运中:NULL:NULL
+FI:244:10:NULL:TDC Oy:NULL:NULL:NULL
+FI:244:11:VIRVE:Suomen Erillisverkot Oy:营运中:TETRA:NULL
+FI:244:12:DNA:DNA Oy:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:NULL
+FI:244:14:AMT:Ålands Mobiltelefon:营运中:GSM 900:coverage only in 
+FI:244:15:SAMK:Samk student network:营运中:GSM 900:coverage only in 
+FI:244:21:Saunalahti:Elisa Oyj:营运中:MVNO:Internal 
+FI:244:29:NULL:Scnl Truphone:NULL:NULL:NULL
+FI:244:91:Sonera:TeliaSonera Finland Oyj:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE:NULL
+FR:208:00:Orange:France Télécom:营运中:GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900:NULL
+FR:208:01:Orange:France Télécom:营运中:GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900:NULL
+FR:208:02:Orange:France Télécom:营运中:GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900:NULL
+FR:208:05:NULL:Globalstar:营运中:Satellite:NULL
+FR:208:06:NULL:Globalstar:营运中:Satellite:NULL
+FR:208:07:NULL:Globalstar:营运中:Satellite:NULL
+FR:208:10:SFR:威望迪:营运中:GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900:NULL
+FR:208:11:SFR:威望迪:营运中:UMTS 2100:UMTS
+FR:208:13:SFR:威望迪:营运中:NULL:NULL
+FR:208:14:Free Mobile:Iliad:营运中:UMTS 2100 / UMTS 900:NULL
+FR:208:15:Free Mobile:Iliad:营运中:UMTS 2100 / UMTS 900:NULL
+FR:208:20:Bouygues:Bouygues Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900:NULL
+FR:208:21:Bouygues:Bouygues Telecom:NULL:GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900:NULL
+FR:208:22:Transatel Mobile:Transatel:NULL:NULL:NULL
+FR:234:24:Stour Marine:Greenfone:营运中:NULL:NULL
+FR:208:88:Bouygues:Bouygues Telecom:营运中:GSM 900 / GSM 1800:Zones Blanches
+PF:547:20:Vini:Tikiphone SA:营运中:GSM 900:NULL
+GA:628:01:Libertis:Gabon Telecom & Libertis S.A.:营运中:GSM 900:NULL
+GA:628:02:Moov:Atlantique Télécom (Etisalat Group) Gabon S.A.:营运中:GSM 900:NULL
+GA:628:03:Airtel:Airtel Gabon S.A.:营运中:GSM 900:NULL
+GA:628:04:Azur:USAN Gabon S.A.:营运中:GSM 900:NULL
+GM:607:01:Gamcel:Gamcel:营运中:GSM 900 / GSM 1900:NULL
+GM:607:02:Africel:Africel:营运中:GSM 900 / GSM 1900:NULL
+GM:607:03:Comium:Comium:营运中:GSM 900 / GSM 1900:NULL
+GM:607:04:QCell:QCell Gambia:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+GE:282:01:Geocell:Geocell Limited:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+GE:282:02:MagtiCom:Magticom GSM:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+GE:282:03:MagtiCom:Magtifix:营运中:CDMA2000 450:NULL
+GE:282:04:Beeline:Mobitel LLC:营运中:GSM 1800:NULL
+GE:282:05:Silknet:Silknet CDMA:营运中:CDMA2000 800:NULL
+DE:262:01:T-Mobile:T-Mobile Deutschland GmbH:营运中:LTE 800 / GSM 900 / GSM/LTE 1800 / UMTS 2100 / LTE 2600:D1 - DeTe Mobil
+DE:262:02:Vodafone:Vodafone D2 GmbH:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DE:262:03:E-Plus:E-Plus Mobilfunk:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DE:262:04:Vodafone:NULL:Reserved:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DE:262:05:E-Plus:E-Plus Mobilfunk:Reserved:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DE:262:06:T-Mobile:NULL:Reserved:LTE 800 / GSM 900 / GSM/LTE 1800 / UMTS 2100 / LTE 2600:NULL
+DE:262:07:O:O2 (Germany) GmbH & Co. OHG:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DE:262:08:O:NULL:Reserved:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DE:262:09:Vodafone:NULL:Reserved:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DE:262:10:NULL:Arcor AG & Co:营运中:GSM-R:NULL
+DE:262:11:O:NULL:Reserved:GSM 900 / GSM 1800 / UMTS 2100:NULL
+DE:262:12:NULL:Dolphin Telecom:非营运中:TETRA:Company defunct since 2005
+DE:262:13:NULL:Mobilcom Multimedia:非营运中:UMTS 2100:License returned in 2003
+DE:262:14:NULL:Group 3G UMTS:非营运中:UMTS 2100:License revoked in 2007
+DE:262:15:Airdata:NULL:营运中:TD-SCDMA:data only
+DE:262:16:Vistream:NULL:NULL:GSM 900 / GSM 1800 / UMTS 2100 (MVNE):uses E-Plus' radio access network (262-03)
+DE:262:42:27C3:Chaos Computer Club:非营运中:GSM 1800:OpenBSC Test Network
+DE:262:43:LYCA:Lycamobile:营运中:NULL:Runs on Vodafone network
+DE:262:60:NULL:DB Telematik:营运中:GSM-R:NULL
+DE:262:76:NULL:Siemens AG:营运中:GSM 900:Test network
+DE:262:77:E-Plus:NULL:营运中:GSM 900:Test network
+DE:262:92:Nash Technologies:NULL:营运中:GSM 1800 / UMTS 2100:Test network 
+DE:262:901:Debitel:NULL:营运中:NULL:NULL
+GH:620:01:MTN:MTN Group:营运中:GSM 900 / GSM 1800:former 
+GH:620:02:Vodafone:Vodafone:营运中:GSM 900 / GSM 1800:former Onetouch
+GH:620:03:tiGO:Millicom:营运中:GSM 900 / GSM 1800:former MOBITEL
+GH:620:04:Expresso:Kasapa / Hutchison Telecom:营运中:CDMA2000:former 
+GH:620:06:Airtel:Airtel:营运中:GSM 900 / GSM 1800 / WCDMA:former 
+GI:266:01:GibTel:Gibraltar Telecoms:营运中:GSM 900:NULL
+GI:266:06:CTS Mobile:CTS Gibraltar:营运中:UMTS 2100:NULL
+GR:202:01:Cosmote:COSMOTE - Mobile Telecommunications S.A.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+GR:202:05:Vodafone:Vodafone Greece:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+GR:202:09:Wind:Wind Hellas Telecommunications S.A. (Q-Telecom):营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+GR:202:10:Wind:Wind Hellas Telecommunications S.A.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+GL:290:01:NULL:TELE Greenland A/S:营运中:GSM 900:NULL
+GD:352:030:Digicel:Digicel Grenada Ltd.:营运中:GSM 900 / GSM 1800:NULL
+GD:352:110:Cable & Wireless:Cable & Wireless Grenada Ltd.:营运中:GSM 850:NULL
+GP:340:01:Orange:Orange Caraïbe Mobiles:营运中:GSM 900:NULL
+GP:340:02:Outremer:Outremer Telecom:营运中:GSM 900 / GSM 1800:NULL
+GP:340:03:Telcell:Saint Martin et Saint Barthelemy Telcell Sarl:营运中:GSM 900 / GSM 1800:NULL
+GP:340:08:Dauphin:Dauphin Telecom:营运中:GSM 900 / GSM 1800:NULL
+GP:340:20:Digicel:DIGICEL Antilles Française Guyane:营运中:GSM 900:Former Bouygues Telecom Caraïbes
+GU:310:032:IT&E Wireless:IT&E Overseas, Inc:营运中:CDMA2000 1900:GSM 1900 planned 
+GU:310:033:NULL:Guam Telephone Authority:NULL:NULL:NULL
+GU:310:140:mPulse:GTA Wireless:营运中:GSM 850 / GSM 1900:NULL
+GU:310:370:docomo:docomo Pacific:非营运中:CDMA2000 850:Formerly Guamcell, shut down in late 2010.
+GU:311:250:i CAN_GSM:Wave Runner LLC:非营运中:GSM 1900:Planned
+GU:310:470:docomo:docomo Pacific:营运中:GSM 1900 / UMTS 850:Formerly Guamcell, and before that, HafaTEL. . / Clashes with nTelos 310-470 in the US. Perhaps this is meant to be 311-470?
+GT:704:01:Claro:Servicios de Comunicaciones Personales Inalambricas (SERCOM):营运中:CDMA2000 1900 / GSM 900 / GSM 1900 / UMTS 1900:NULL
+GT:704:02:Comcel / :Millicom:营运中:GSM 850 / TDMA 800 / UMTS 850:NULL
+GT:704:03:movistar:Telefonica Móviles Guatemala (:营运中:CDMA2000 1900 / GSM 1900 / UMTS 1900:NULL
+GT:704: ?:digicel:Digicel Group:Reserved:GSM 900:NULL
+GB:234:55:Sure Mobile:Cable & Wireless Guernsey:营运中:GSM 900 / UMTS 2100:NULL
+GB:234:50:Wave Telecom:Wave Telecom (JT-Wave):营运中:GSM 1800 / UMTS 2100:NULL
+GB:234:03:Airtel Vodafone:Guernsey Airtel Ltd:营运中:GSM 1800 / UMTS 2100:NULL
+GN:611:01:Orange S.A.:Orange:营运中:GSM 900:Formerly Spacetel
+GN:611:02:Sotelgui:Sotelgui Lagui:营运中:GSM 900:NULL
+GN:611:03:Telecel Guinee:INTERCEL Guinée:营运中:GSM 900:NULL
+GN:611:04:MTN:Areeba Guinea:营运中:GSM 900 / GSM 1800:NULL
+GN:611:05:Cellcom:Cellcom:营运中:GSM 900 / GSM 1800:NULL
+GW:632:02:Areeba:Spacetel Guiné-Bissau S.A.:营运中:GSM 900:NULL
+GW:632:03:Orange:NULL:营运中:GSM 900/1800:NULL
+GY:738:01:Digicel:U-Mobile (Cellular) Inc.:营运中:GSM 900:NULL
+GY:738:02:GT&T Cellink Plus:Guyana Telephone & Telegraph Co.:营运中:GSM 900:NULL
+HT:372:01:Voila:Communication Cellulaire d'Haiti S.A.:营运中:GSM 850:NULL
+HT:372:02:Digicel:Unigestion Holding S.A.:营运中:GSM 1800:NULL
+HT:372:03:NATCOM:Telecommunication S.A.:营运中:GSM 900:NULL
+HN:708:01:Claro:Servicios de Comunicaciones de Honduras S.A. de C.V.:营运中:GSM 1900:NULL
+HN:708:02:Tigo:Celtel / :营运中:CDMA2000 850 / GSM 850:NULL
+HN:708:30:Hondutel:Empresa Hondureña de Telecomunicaciones:营运中:GSM 1900:NULL
+HN:708:40:DIGICEL:Digicel de Honduras:营运中:GSM 1900:NULL
+HK:454:00:1O1O:CSL Mobile Limited:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:merged with New World (Sun)
+HK:454:01:NULL:CITIC Telecom:营运中:GSM 900 / GSM 1800:MVNO
+HK:454:02:NULL:CSL:营运中:GSM 900 / GSM 1800:Network code 营运中 only at Airport to attract inbound roamers to join 454-00
+HK:454:03:3:Hutchison Telecom:营运中:UMTS 900 / UMTS 2100:NULL
+HK:454:04:3 (2G):Hutchison Telecom:营运中:GSM 900 / GSM 1800:NULL
+HK:454:05:3 (CDMA):Hutchison Telecom:非营运中:CDMA2000 800:Defunct CDMA IS-95 network, decommissioned on 19 Nov 2008 at 23:59
+HK:454:06:SmarTone:SmarTone Mobile Communications Limited:营运中:GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100:NULL
+HK:454:07:NULL:China Unicom (Hong Kong) Limited:营运中:GSM 900 / GSM 1800 / UMTS 2100:MVNO on Hutchison Telecom network; network code 营运中 only at Airport to attract inbound roamers to join 454-03 or 454-04
+HK:454:08:NULL:Trident Telecom:非营运中:GSM 900 / GSM 1800:Defunct MVNO on PCCW Mobile network
+HK:454:09:NULL:China Motion Telecom:营运中:GSM 900 / GSM 1800:MVNO on CSL network; network code 营运中 at only Airport to attract inbound roamers to join 454-00
+HK:454:10:New World Mobility:CSL:营运中:GSM 1800:Signal Combined with 454-00
+HK:454:11:NULL:China-Hong Kong Telecom:营运中:UMTS 2100:MVNO on PCCW Mobile and Hutchison Telecom networks; network code 营运中 only at Airport to attract inbound roamers to join 454-19
+HK:454:12:CMCC HK:China Mobile Hong Kong Company Limited:营运中:GSM 1800:Formerly Peoples
+HK:454:13:CMCC HK:China Mobile Hong Kong Company Limited:营运中:UMTS 2100:MVNO on PCCW Mobile network
+HK:454:14:NULL:Hutchison Telecom:营运中:GSM 1800:Network code 营运中 only at Airport to attract inbound roamers to join 454-03 or 454-04
+HK:454:15:NULL:SmarTone Mobile Communications Limited:营运中:GSM 1800:Network code 营运中 only at Airport to attract inbound roamers to join 454-06
+HK:454:16:PCCW Mobile:PCCW Limited:营运中:GSM 1800:Formerly 
+HK:454:17:NULL:SmarTone Mobile Communications Limited:营运中:GSM 1800:Network code 营运中 only at Airport to attract inbound roamers to join 454-06
+HK:454:18:NULL:CSL:营运中:GSM 1800:Network code 营运中 only at Airport to attract inbound roamers to join 454-00
+HK:454:19:PCCW Mobile (3G):PCCW Limited:营运中:UMTS 2100:NULL
+HK:454:29:PCCW Mobile (CDMA):PCCW Limited:营运中:CDMA2000 800:CDMA2000 1X EV-DO Rev A network for inbound roamers, with coverage limited to Golden Bowl Area around 
+HU:216:01:Telenor:Telenor Magyarország Zrt.:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former Pannon, Pannon GSM
+HU:216:30:T-Mobile:Magyar Telekom Plc:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former WESTEL, Westel 900
+HU:216:70:Vodafone:Vodafone Magyarország Zrt.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IS:274:01:Síminn:Iceland Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former Landssimi hf 
+IS:274:02:Vodafone:Og fjarskipti hf:营运中:GSM 900 / GSM 1800:Former Islandssimi ehf
+IS:274:03:Vodafone:Vodafone Iceland:营运中:NULL:Former Islandssimi ehf
+IS:274:04:Viking:IMC Island ehf:营运中:GSM 1800:NULL
+IS:274:06:NULL:Núll níu ehf:Reserved:NULL:NULL
+IS:274:07:IceCell:IceCell ehf:营运中:GSM 1800:NULL
+IS:274:08:On-waves:Iceland Telecom:营运中:NULL:On ferries and cruise ships
+IS:274:11:Nova:Nova ehf:营运中:UMTS 2100:NULL
+IS:274:12:Tal:Tal hf:营运中:GSM 900 / GSM 1800:NULL
+IN:404:01:Vodafone IN:Haryana:营运中:GSM 900:NULL
+IN:404:02:AirTel:Punjab:营运中:GSM 900:NULL
+IN:404:03:AirTel:Himachal Pradesh:营运中:GSM 900:NULL
+IN:404:04:IDEA:Delhi & NCR:营运中:GSM 1800:NULL
+IN:404:05:Vodafone IN:Gujarat:营运中:GSM 900:Formerly Hutch / Fascel
+IN:404:07:IDEA:Andhra Pradesh:营运中:GSM 900:NULL
+IN:404:09:Reliance:Assam:营运中:GSM 900:NULL
+IN:404:10:AirTel:Delhi & NCR:营运中:GSM 900:NULL
+IN:404:11:Vodafone IN:Delhi & NCR:营运中:GSM 900 / GSM 1800:NULL
+IN:404:12:IDEA:Haryana:营运中:GSM 900:Former Escotel
+IN:404:13:Vodafone IN:Andhra Pradesh:营运中:GSM 1800:NULL
+IN:404:14:IDEA:Punjab:营运中:GSM 900 / GSM 1800:Former Spice
+IN:404:15:Vodafone IN:Uttar Pradesh (East):营运中:GSM 900:NULL
+IN:404:17:AIRCEL:West Bengal:营运中:GSM 900 / GSM 1800:NULL
+IN:404:19:IDEA:Kerala:营运中:GSM 900 / GSM 1800:Former Escotel
+IN:404:20:Vodafone IN:Mumbai:营运中:GSM 900:Former Hutchison Maxtouch / Orange / Hutch
+IN:404:21:Loop Mobile:Mumbai:营运中:GSM 900:Former BPL Mobile
+IN:404:22:IDEA:Maharashtra & Goa:营运中:GSM 900:NULL
+IN:404:24:IDEA:Gujarat:营运中:GSM 900:NULL
+IN:404:25:AIRCEL:Bihar:营运中:GSM 900 / GSM 1800:NULL
+IN:404:27:Vodafone IN:Maharashtra & Goa:营运中:GSM 900:NULL
+IN:404:28:AIRCEL:Orissa:营运中:GSM 900:NULL
+IN:404:29:AIRCEL:Assam:营运中:GSM 900:NULL
+IN:404:30:Vodafone IN:Kolkata:营运中:GSM 900 / GSM 1800:Former Command / Hutch
+IN:404:31:AirTel:Kolkata:营运中:GSM 900:NULL
+IN:404:34:CellOne:Haryana:营运中:GSM 900:NULL
+IN:404:36:Reliance:Bihar & Jharkhand:营运中:NULL:NULL
+IN:404:37:Aircel:Jammu & Kashmir:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:38:CellOne:Assam:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:41:Aircel:Chennai:营运中:GSM 900:Formerly RPG
+IN:404:42:Aircel:Tamil Nadu:营运中:GSM 900:NULL
+IN:404:44:IDEA:Karnataka:营运中:GSM 900:Former Spice
+IN:404:45:Airtel:Karnataka:营运中:GSM:NULL
+IN:404:46:Vodafone IN:Kerala:营运中:GSM 900:NULL
+IN:404:48:Dishnet Wireless:NULL:营运中:GSM 900:NULL
+IN:404:49:Airtel:Andhra Pradesh:营运中:GSM 900:NULL
+IN:404:51:CellOne:Himachal Pradesh:营运中:GSM 900:NULL
+IN:404:52:Reliance:Orissa:营运中:GSM 900:NULL
+IN:404:53:CellOne:Punjab:营运中:GSM 900:NULL
+IN:404:54:CellOne:Uttar Pradesh (West):营运中:GSM 900:NULL
+IN:404:55:CellOne:Uttar Pradesh (East):营运中:GSM 900:NULL
+IN:404:71:CellOne:Karnataka (Bangalore):营运中:GSM 900:NULL
+IN:404:56:IDEA:Uttar Pradesh (West):营运中:GSM 900:NULL
+IN:404:57:CellOne:Gujarat:营运中:GSM 900:NULL
+IN:404:58:CellOne:Madhya Pradesh & Chhattisgarh:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:59:CellOne:Rajasthan:营运中:GSM 900:NULL
+IN:404:60:Vodafone IN:Rajasthan:营运中:GSM 900:NULL
+IN:404:62:CellOne:Jammu & Kashmir:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:64:CellOne:Chennai:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:66:CellOne:Maharashtra & Goa:营运中:GSM 900:UMTS 2100
+IN:404:67:Reliance GSM:Madhya Pradesh & Chhattisgarh:营运中:GSM 900:UMTS 2100
+IN:404:68:DOLPHIN:Delhi & NCR:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:69:DOLPHIN:Mumbai:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:72:CellOne:Kerala:营运中:GSM 900:NULL
+IN:404:74:CellOne:West Bengal:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:76:CellOne:Orissa:营运中:GSM 900 / UMTS 2100:(2100 MHz ?)
+IN:404:78:Idea Cellular Ltd:Madhya Pradesh & Chattishgarh:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:80:BSNL MOBILE:Bharat Sanchar Nigam Limited:营运中:NULL:NULL
+IN:404:81:CellOne:Kolkata:营运中:GSM 900 / UMTS 2100:NULL
+IN:404:82:Idea:Himachal Pradesh:营运中:NULL:NULL
+IN:404:83:Reliance Smart GSM:Kolkata:营运中:GSM 1800:NULL
+IN:404:84:Vodafone IN:Chennai:营运中:GSM 1800:NULL
+IN:404:85:Reliance:West Bengal:营运中:GSM 1800:NULL
+IN:404:86:Vodafone IN:Karnataka:营运中:NULL:NULL
+IN:404:87:Idea:Rajisthan:营运中:NULL:NULL
+IN:404:88:Vodafone IN:Vodafone Punjab:营运中:NULL:NULL
+IN:404:89:Idea:Uttar Pradesh (East):营运中:NULL:NULL
+IN:404:90:AirTel:Maharashtra & Goa:营运中:GSM 1800:NULL
+IN:404:91:AIRCEL:Kolkata:营运中:GSM 900:NULL
+IN:404:92:AirTel:Mumbai:营运中:GSM 1800:NULL
+IN:404:93:AirTel:Madhya Pradesh:营运中:GSM 1800:NULL
+IN:404:96:AirTel:Haryana:营运中:GSM 1800:NULL
+IN:405:01:Reliance:Andhra Pradesh:营运中:GSM 1800:NULL
+IN:405:03:Reliance:Bihar:营运中:GSM 1800:NULL
+IN:405:04:Reliance:Chennai:营运中:GSM 1800:NULL
+IN:405:05:Reliance:Delhi & NCR:营运中:GSM 1800:NULL
+IN:405:09:Reliance:Jammu & Kashmir:营运中:GSM 1800 / UTMS 2100:NULL
+IN:405:10:Reliance:Karnataka:营运中:GSM 1800:NULL
+IN:405:13:Reliance:Maharashtra & Goa:营运中:GSM 1800:NULL
+IN:405:025:TATA Teleservice:Andhra Pradesh:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:026:TATA Teleservice:Assam:营运中:CDMA 2000:EDGE, 2.5G
+IN:405:027:TATA Teleservice:Bihar/Jharkhand:营运中:CDMA 2000 / GSM 1800:EDGE, 2.75G
+IN:405:029:TATA Teleservice:Delhi:营运中:CDMA 2000:EDGE, 2.75G
+IN:405:030:TATA Teleservice:Gujarat:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:031:TATA Teleservice:Haryana:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:032:TATA Teleservice:Himachal Pradesh:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:033:TATA Teleservice:Jammu & Kashmir:营运中:CDMA 2000:EDGE, 2.75G
+IN:405:034:TATA Teleservice:Karnataka:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:035:TATA Teleservice:Kerala:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:036:TATA Teleservice:Kolkata:营运中:CDMA 2000 / GSM 1800:EDGE, 2.75G
+IN:405:037:TATA Teleservice:Maharashtra & Goa:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:038:TATA Teleservice:Madhya Pradesh:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:039:TATA Teleservice:Mumbai:营运中:CDMA 2000 / GSM 1800:EDGE, 2.75G
+IN:405:041:TATA Teleservice:Orissa:营运中:CDMA 2000 / GSM 1800:EDGE, 2.75G
+IN:405:042:TATA Teleservice:Punjab:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:043:TATA Teleservice:Rajasthan:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:044:TATA Teleservice:Tamil Nadu including Chennai:营运中:CDMA 2000 / GSM 1800:EDGE, 2.75G
+IN:405:045:TATA Teleservice:[Uttar Pradesh (E)]:营运中:CDMA 2000 / GSM 1800:EDGE, 2.75G
+IN:405:046:TATA Teleservice:[Uttar Pradesh (W) & Uttarkhand ]:营运中:CDMA 2000 / GSM 1800 / UMTS 2100:HSPA+, 3G network, EDGE, 2.75G
+IN:405:047:TATA Teleservice:[West Bengal]:营运中:CDMA 2000 / GSM 1800:EDGE, 2.75G
+IN:405:51:AirTel:West Bengal:营运中:GSM 900:NULL
+IN:405:52:AirTel:Bihar & Jharkhand:营运中:GSM 900:NULL
+IN:405:54:AirTel:Uttar Pradesh (East):营运中:GSM 900:NULL
+IN:405:55:Airtel:Jammu & Kashmir:营运中:GSM 900 / UTMS 2100:NULL
+IN:405:56:AirTel:Assam:营运中:GSM 900 / GSM 1800:NULL
+IN:405:66:Vodafone IN:Uttar Pradesh (West):营运中:GSM 900 / GSM 1800:NULL
+IN:405:70:IDEA:Bihar & Jharkhand:营运中:GSM 1800:NULL
+IN:405:750:Vodafone IN:Jammu & Kashmir:营运中:GSM 1800:NULL
+IN:405:751:Vodafone IN:Assam:营运中:GSM 1800:NULL
+IN:405:752:Vodafone IN:Bihar & Jharkhand:营运中:GSM 1800:NULL
+IN:405:753:Vodafone IN:Orissa:营运中:GSM 1800:NULL
+IN:405:754:Vodafone IN:Himachal Pradesh:营运中:GSM 1800:NULL
+IN:405:755:Vodafone IN:North East:营运中:GSM 1800:NULL
+IN:405:756:Vodafone IN:Madhya Pradesh & Chhattisgarh:营运中:GSM 1800:NULL
+IN:405:799:IDEA:Mumbai:营运中:GSM 900 / GSM 1800:NULL
+IN:405:800:AIRCEL:Delhi & NCR:营运中:GSM 1800:NULL
+IN:405:801:AIRCEL:Andhra Pradesh:营运中:GSM 1800:NULL
+IN:405:802:AIRCEL:Gujarat:非营运中:GSM 1800:NULL
+IN:405:803:AIRCEL:Karnataka:营运中:GSM 1800:NULL
+IN:405:804:AIRCEL:Maharashtra & Goa:营运中:GSM 1800:NULL
+IN:405:805:AIRCEL:Mumbai:营运中:GSM 1800:NULL
+IN:405:806:AIRCEL:Rajasthan:营运中:GSM 1800:NULL
+IN:405:807:AIRCEL:Haryana:非营运中:GSM 1800:NULL
+IN:405:808:AIRCEL:Madhya Pradesh:非营运中:GSM 1800:NULL
+IN:405:809:AIRCEL:Kerala:营运中:GSM 1800:NULL
+IN:405:810:AIRCEL:Uttar Pradesh (East):营运中:GSM 1800:NULL
+IN:405:811:AIRCEL:Uttar Pradesh (West):营运中:GSM:NULL
+IN:405:812:AIRCEL:Punjab:非营运中:GSM:NULL
+IN:405:819:Uninor:Andhra Pradesh:营运中:GSM:NULL
+IN:405:818:Uninor:Uttar Pradesh (West):营运中:GSM:NULL
+IN:405:820:Uninor:Karnataka:营运中:GSM 1800:NULL
+IN:405:821:Uninor:Kerala:营运中:GSM 1800:NULL
+IN:405:822:Uninor:Kolkata:营运中:GSM:NULL
+IN:405:824:Videocon Datacom:Assam:Reserved:GSM 1800:NULL
+IN:405:827:Videocon Datacom:Gujarat:营运中:GSM 1800:NULL
+IN:405:834:Videocon Datacom:Madhya Pradesh:Reserved:GSM 1800:NULL
+IN:405:844:Uninor:Delhi & NCR:非营运中:GSM:NULL
+IN:405:845:IDEA:Assam:营运中:GSM 1800:NULL
+IN:405:86:IDEA:Jammu & Kashmir:营运中:GSM 1800 / UTMS 2100:NULL
+IN:405:848:IDEA:Kolkata:营运中:GSM 1800:NULL
+IN:405:850:IDEA:Orissa:营运中:GSM 1800:NULL
+IN:405:855:Loop Mobile:Assam:Reserved:GSM 1800:NULL
+IN:405:864:Loop Mobile:Kolkata:非营运中:GSM:NULL
+IN:405:865:Loop Mobile:Madhya Pradesh:Reserved:GSM 1800:NULL
+IN:405:875:Uninor:Assam:Reserved:GSM 1800:NULL
+IN:405:880:Uninor:West Bengal:营运中:GSM 1800:NULL
+IN:405:881:S Tel:Assam:Reserved:GSM 1800:NULL
+IN:405:912:Etisalat DB(cheers):Andhra Pradesh:Reserved:NULL:NULL
+IN:405:913:Etisalat DB(cheers):Delhi & NCR:Reserved:GSM:Coming soon
+IN:405:914:Etisalat DB(cheers):Gujarat:营运中:NULL:NULL
+IN:405:917:Etisalat DB(cheers):Kerala:Reserved:NULL:NULL
+IN:404:927:Uninor:Gujarat:营运中:NULL:NULL
+IN:405:929:Uninor:Maharashtra:营运中:GSM 1800:NULL
+ID:510:00:PSN:PT Pasifik Satelit Nusantara (ACeS):营运中:Satellite:NULL
+ID:510:01:INDOSAT:PT Indonesian Satellite Corporation Tbk (INDOSAT):营运中:GSM 900 / GSM 1800 / UMTS 2100:Former PT Satelindo
+ID:510:03:StarOne:PT Indosat Tbk:营运中:CDMA2000 800:NULL
+ID:510:07:TelkomFlexi:PT Telkom:营运中:CDMA2000 800:NULL
+ID:510:08:AXIS:PT Natrindo Telepon Seluler:营运中:GSM 1800 / UMTS 2100:NULL
+ID:510:09:SMART:PT Smart Telecom:营运中:CDMA2000 1900:NULL
+ID:510:10:Telkomsel:PT Telekomunikasi Selular:营运中:GSM 900 / GSM 1800 / UMTS 2100/apn free arutmin:NULL
+ID:510:11:XL:PT XL Axiata Tbk:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+ID:510:20:TELKOMMobile:PT Telkom Indonesia Tbk:NULL:GSM 1800:Merged with Telkomsel
+ID:510:21:IM3:PT Indonesian Satellite Corporation Tbk (INDOSAT):非营运中:GSM 1800:Merged with Indosat (MNC 01) MNC 21 not used anymore
+ID:510:27:Ceria:PT Sampoerna Telekomunikasi Indonesia:营运中:CDMA2000 450:NULL
+ID:510:28:Fren/Hepi:PT Mobile-8 Telecom:营运中:CDMA2000 800:NULL
+ID:510:89:3:PT Hutchison CP Telecommunications:营运中:GSM 1800 / UMTS 2100:NULL
+ID:510:99:Esia:PT Bakrie Telecom:营运中:CDMA2000 800:NULL
+IR:432:11:IR-MCI:Mobile Communications Company of Iran:营运中:GSM 900 / GSM 1800:NULL
+IR:432:14:TKC:KFZO:营运中:GSM 900:NULL
+IR:432:19:MTCE:Mobile Telecommunications Company of Esfahan:营运中:GSM 900:NULL
+IR:432:32:Taliya:Rafsanjan Industrial Complex:营运中:GSM 900 / GSM 1800:NULL
+IR:432:35:Irancell:Irancell Telecommunications Services Company:营运中:GSM 900 / GSM 1800:NULL
+IR:432:70:TCI:Telephone Communications Company of Iran:营运中:GSM 900 / GSM 1800:Mostly used in rural areas with poor telephone line and cable equipments, instead of telephone
+IR:432:93:Iraphone:Iraphone:营运中:GSM 1800:Mostly used in rural areas with poor telephone line and cable equipments, instead of telephone
+IQ:418:05:Asia Cell:Asia Cell Telecommunications Company:营运中:GSM 900:NULL
+IQ:418:08:SanaTel:NULL:营运中:GSM 900:NULL
+IQ:418:20:Zain:Zain Iraq:营运中:GSM 900 / GSM 1800:NULL
+IQ:418:30:Zain:Zain Iraq:营运中:GSM 900 / GSM 1800:NULL
+IQ:418:40:Korek:Korek Telecom Ltd:营运中:GSM 900:NULL
+IQ:418:45:Mobitel:Mobitel Co. Ltd.:营运中:3.5G/UMTS:NULL
+IQ:418: ?:IRAQNA:Orascom Telecom Iraq Corporation:营运中:GSM 900:NULL
+IQ:418:92:Omnnea:Omnnea Wireless:营运中:3.5G/UMTS:NULL
+IE:272:01:Vodafone:Vodafone Ireland:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IE:272:02:O:O2 Ireland:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IE:272:03:Meteor:Meteor Mobile Communications:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IE:272:04:NULL:Access Telecom:NULL:NULL:NULL
+IE:272:05:3:Hutchison 3G:营运中:UMTS 2100:NULL
+IE:272:07:Eircom:Eircom Mobile:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IE:272:09:NULL:Clever Communications:NULL:NULL:NULL
+IE:272:11:NULL:Liffey Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IM:234:58:Pronto GSM:Manx Telecom:营运中:GSM 900 / UMTS 2100:NULL
+IM:234:09:Sure Mobile:Cable & Wireless Isle of Man Ltd.:营运中:GSM 900/1800:NULL
+IM:234:(null):Cloud 9 Mobile:Cloud 9 Mobile Communications PLC:非营运中:GSM 1800 / UMTS 2100:Retired
+IL:425:01:Orange:Partner Communications Company Ltd:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IL:425:02:Cellcom:NULL:营运中:TDMA 850 / GSM 1800 / UMTS 2100:NULL
+IL:425:03:Pelephone:NULL:营运中:CDMA2000 800 / UMTS 850 / 2100:NULL
+IL:425:77:Mirs:NULL:营运中:iDEN:NULL
+IT:222:01:TIM:Telecom Italia SpA:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IT:222:02:Elsacom:NULL:非营运中:Satellite (Globalstar):Retired
+IT:222:07:Noverca:NULL:营运中:MVNO:使用TIM网络
+IT:222:10:Vodafone:Vodafone Omnitel N.V.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IT:222:30:RFI:Rete Ferroviaria Italiana:营运中:GSM-R 900:铁路通信
+IT:222:77:IPSE 2000:NULL:非营运中:UMTS 2100:Retired
+IT:222:88:Wind:Wind Telecomunicazioni SpA:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+IT:222:98:Blu:NULL:非营运中:GSM 1800:Retired
+IT:222:99:3 Italia:Hutchison 3G:营运中:UMTS 2100:NULL
+CI:612:01:NULL:Cora de Comstar:非营运中:NULL:NULL
+CI:612:02:Moov:NULL:营运中:GSM 900 / GSM 1800:NULL
+CI:612:03:Orange:NULL:营运中:GSM 900:NULL
+CI:612:04:KoZ:Comium Ivory Coast Inc:营运中:GSM 900 / GSM 1800:NULL
+CI:612:05:MTN:NULL:营运中:GSM 900:NULL
+CI:612:06:ORICEL:ORICEL:营运中:GSM 1800:NULL
+JM:338:020:LIME:Cable & Wireless:非营运中:NULL:NULL
+JM:338:050:Digicel:Digicel (Jamaica) Limited:营运中:GSM 900 / GSM 1800 / CDMA2000 1900:NULL
+JM:338:070:Claro:Oceanic Digital Jamaica Limited:营运中:GSM 850 / GSM 1900 / CDMA2000 850:NULL
+JM:338:180:LIME:Cable & Wireless:营运中:GSM 850 / GSM 1900 / WCDMA 850:NULL
+JP:440:00:eMobile:EMOBILE Limited:营运中:UMTS 1700:NULL
+JP:440:01:NTT docomo:NTT docomo:营运中:UMTS 2100:NULL
+JP:440:02:NTT docomo:NTT DoCoMo Kansai:营运中:UMTS 2100:NULL
+JP:440:03:NTT docomo:NTT DoCoMo Hokuriku:营运中:UMTS 2100:NULL
+JP:440:04:SoftBank:SoftBank Mobile Corp:营运中:UMTS 2100:Formerly known as Vodafone K.K.
+JP:440:06:SoftBank:SoftBank Mobile Corp:营运中:UMTS 2100:Formerly known as Vodafone K.K.
+JP:440:07:KDDI:KDDI Corporation:营运中:CDMA2000:1X EV-DO Rev.A
+JP:440:08:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:09:NTT docomo:NTT DoCoMo Kansai:营运中:NULL:NULL
+JP:440:10:NTT docomo:NTT DoCoMo Kansai:营运中:UMTS 800 / UMTS 1700 / UMTS 2100:NULL
+JP:440:11:NTT docomo:NTT DoCoMo Tokai:营运中:NULL:NULL
+JP:440:12:NTT docomo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:13:NTT docomo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:14:NTT docomo:NTT DoCoMo Tohoku:营运中:NULL:NULL
+JP:440:15:NTT docomo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:16:NTT docomo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:17:NTT docomo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:18:NTT docomo:NTT DoCoMo Tokai:营运中:NULL:NULL
+JP:440:19:NTT docomo:NTT DoCoMo Hokkaido:营运中:NULL:NULL
+JP:440:20:SoftBank:SoftBank Mobile Corp:营运中:UMTS 2100:Former Vodafone K.K.
+JP:440:21:NTT docomo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:22:NTT docomo:NTT DoCoMo Kansai:营运中:NULL:NULL
+JP:440:23:DoCoMo:NTT DoCoMo Tokai:营运中:NULL:NULL
+JP:440:24:DoCoMo:NTT DoCoMo Chugoku:营运中:NULL:NULL
+JP:440:25:DoCoMo:NTT DoCoMo Hokkaido:营运中:NULL:NULL
+JP:440:26:DoCoMo:NTT DoCoMo Kyushu:营运中:NULL:NULL
+JP:440:27:DoCoMo:NTT DoCoMoTohoku:营运中:NULL:NULL
+JP:440:28:DoCoMo:NTT DoCoMo Shikoku:营运中:NULL:NULL
+JP:440:29:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:30:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:31:DoCoMo:NTT DoCoMo Kansai:营运中:NULL:NULL
+JP:440:32:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:33:DoCoMo:NTT DoCoMo Tokai:营运中:NULL:NULL
+JP:440:34:DoCoMo:NTT DoCoMo Kyushu:营运中:NULL:NULL
+JP:440:35:DoCoMo:NTT DoCoMo Kansai:营运中:NULL:NULL
+JP:440:36:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:37:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:38:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:39:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:40:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:41:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:42:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:43:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:44:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:45:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:46:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:47:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:48:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:49:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:50:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:51:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:52:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:53:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:54:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:55:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:56:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:58:DoCoMo:NTT DoCoMo Kansai:营运中:NULL:NULL
+JP:440:60:DoCoMo:NTT DoCoMo Kansai:营运中:NULL:NULL
+JP:440:61:DoCoMo:NTT DoCoMo Chugoku:营运中:NULL:NULL
+JP:440:62:DoCoMo:NTT DoCoMo Kyushu:营运中:NULL:NULL
+JP:440:63:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:64:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:65:DoCoMo:NTT DoCoMo Shikoku:营运中:NULL:NULL
+JP:440:66:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:67:DoCoMo:NTT DoCoMo Tohoku:营运中:NULL:NULL
+JP:440:68:DoCoMo:NTT DoCoMo Kyushu:营运中:NULL:NULL
+JP:440:69:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JP:440:70:au:KDDI Corporation:营运中:CDMA2000 800 / CDMA2000 2100:NULL
+JP:440:71:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:72:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:73:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:74:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:75:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:76:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:77:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:78:NULL:Okinawa Cellular Telephone:营运中:NULL:NULL
+JP:440:79:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:80:TU-KA:TU-KA Cellular Tokyo:非营运中:NULL:Closed on March 31, 2008.
+JP:440:81:TU-KA:TU-KA Cellular Tokyo:非营运中:NULL:Closed on March 31, 2008.
+JP:440:82:TU-KA:TU-KA Phone Kansai:非营运中:NULL:Closed on March 31, 2008.
+JP:440:83:TU-KA:TU-KA Cellular Tokai:非营运中:NULL:Closed on March 31, 2008.
+JP:440:84:TU-KA:TU-KA Phone Kansai:非营运中:NULL:Closed on March 31, 2008.
+JP:440:85:TU-KA:TU-KA Cellular Tokai:非营运中:NULL:Closed on March 31, 2008.
+JP:440:86:TU-KA:TU-KA Cellular Tokyo:非营运中:NULL:Closed on March 31, 2008.
+JP:440:87:DoCoMo:NTT DoCoMo Chugoku:营运中:NULL:NULL
+JP:440:88:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:89:KDDI:KDDI Corporation:营运中:NULL:NULL
+JP:440:90:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:92:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:93:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:94:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:95:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:96:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:97:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:98:SoftBank:SoftBank Mobile Corp:营运中:NULL:Formerly known as Vodafone K.K.
+JP:440:99:DoCoMo:NTT DoCoMo:营运中:NULL:NULL
+JE:234:50:JT-Wave:Jersey Telecom (JT-Wave):营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+JE:234:55:Sure Mobile:Cable & Wireless Jersey Limited:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+JE:234:03:Airtel Vodafone:JERSEY AIRTEL LIMITED:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+JO:416:01:zain JO:Jordan Mobile Telephone Services:营运中:GSM 900:Former Fastlink
+JO:416:02:XPress Telecom:NULL:营运中:iDEN 800:NULL
+JO:416:03:Umniah:Umniah Mobile Company:营运中:GSM 1800:NULL
+JO:416:77:Orange:Petra Jordanian Mobile Telecommunications Company (MobileCom):营运中:GSM 900:NULL
+KZ:401:01:Beeline:KaR-Tel LLP:营运中:GSM 900 / GSM 1800:NULL
+KZ:401:02:Kcell:GSM Kazakhstan Ltd:营运中:GSM 900 / GSM 1800:NULL
+KZ:401:07:Dalacom:NULL:营运中:CDMA2000 800:NULL
+KZ:401:08:Kazakhtelecom:NULL:营运中:CDMA2000 800 / CDMA2000 450:NULL
+KZ:401:77:Mobile Telecom Service:Mobile Telecom Service LLP:营运中:GSM 900:NULL
+KE:639:02:Safaricom:Safaricom Limited:营运中:GSM 900 / GSM 1800:NULL
+KE:639:03:Airtel:B Airtel:营运中:GSM 900:NULL
+KE:639:07:Orange Kenya:Telkom Kenya:营运中:CDMA2000 / GSM 900 / GSM 1800:NULL
+KE:639:05:yu:Econet Wireless Kenya:营运中:GSM 900 / GSM 1800:NULL
+KI:545:09:Kiribati Frigate:Telecom Services Kiribati Ltd:营运中:GSM 900:NULL
+KP:467:192:Koryolink:Cheo Technology Jv Company:营运中:UMTS 2100:NULL
+KP:467:193:SunNet:Korea Posts and Telecommunications Corporation:营运中:GSM 900:NULL
+KR:450:02:KT:KT:营运中:CDMA2000 1700:Formerly Hansol PCS, Merged with KT
+KR:450:03:Power 017:Shinsegi Telecom, Inc.:非营运中:CDMA2000 800:Merged with SK Telecom in 2002
+KR:450:04:KT:KT:营运中:CDMA2000 1700:HSM
+KR:450:05:SKT:SK Telecom:营运中:CDMA2000 800 / UMTS 2100:NULL
+KR:450:06:LGU+:LG Telecom:营运中:CDMA2000 1700:NULL
+KR:450:08:olleh:KT:营运中:UMTS 2100:NULL
+RKS:212:01:Vala:PTK - Directory of Post of Kosovo:营运中:GSM 900:Monaco MCC. Monaco Telecom is responsible for the delegated management of 
+RKS:293:41:IPKO:IPKO:营运中:GSM 900 / GSM 1800:Telekom Slovenije is responsible for the delegated management of 
+RKS:293:41:D3 Mobile:Dukagjini:营运中:GSM 900 / GSM 1800:IPKO
+RKS:212:01:Z Mobile:Dardaphone:营运中:GSM 900:Vala
+KW:419:02:zain KW:Zain Kuwait:营运中:GSM 900 / UMTS 2100:NULL
+KW:419:03:Wataniya:National Mobile Telecommunications:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+KW:419:04:Viva:Kuwait Telecommunication Company:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+KG:437:01:Beeline:Sky Mobile LLC:营运中:GSM 900 / GSM 1800:former Bitel
+KG:437:03:Fonex:Aktel Ltd:营运中:CDMA2000:NULL
+KG:437:05:MegaCom:Alfa Telecom CJSC:营运中:GSM 900 / GSM 1800:NULL
+KG:437:09:O!:NurTelecom LLC:营运中:GSM 900 / GSM 1800:NULL
+LA:457:01:LTC:LaoTelecom:营运中:GSM 900 / GSM 1800 / TD-SCDMA 1880 / TD-SCDMA 2010 / TD-LTE 1800/2300/2600 / UMTS 2100:NULL
+LA:457:02:ETL:Enterprise of Telecommunications Lao:营运中:GSM 900 / GSM 1800 / TD-SCDMA 1880 / TD-SCDMA 2010:NULL
+LA:457:03:Unitel:Star Telecom Co., Ltd:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former Lao-Asia Telecom Company (LAT)
+LA:457:08:Tigo:Millicom Lao Co Ltd:营运中:GSM 900 / GSM 1800:NULL
+LV:247:01:LMT:Latvian Mobile Telephone:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LV:247:02:Tele2:Tele2:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LV:247:03:TRIATEL:Telekom Baltija:营运中:CDMA2000 450:NULL
+LV:247:05:Bite:Bite Latvija:营运中:GSM 900 / GSM 1800 / UMTS 2100:Bite's postpaid customers are still being assigned SIM cards with 246 02 MNC
+LV:247:06:NULL:Rigatta:Reserved:NULL:No own network. Not in commercial use.
+LV:247:07:MTS:Master Telecom:营运中:MVNO:Uses Bite network 
+LV:247:08:IZZI:IZZI:营运中:MVNO:Uses Bite network 
+LV:247:09:Camel Mobile:Camel Mobile:营运中:MVNO:NULL
+LB:415:01:Alfa:MIC 1:营运中:GSM 900:NULL
+LB:415:03:mtc touch:MIC 2:营运中:GSM 900:NULL
+LB:415:05:Ogero Mobile:Ogero Telecom:Planned:GSM 900:NULL
+LS:651:01:Vodacom:Vodacom Lesotho (Pty) Ltd:营运中:GSM 900:NULL
+LS:651:02:NULL:Econet Ezin-cel:营运中:NULL:NULL
+LR:618:01:Lonestar Cell:Lonestar Communications Corporation:营运中:GSM 900:NULL
+LR:618:02:Libercell:Atlantic Wireless (Liberia) Inc.:营运中:NULL:NULL
+LR:618:04:Comium:Comium Liberia:营运中:GSM 900:NULL
+LR:618:07:Cellcom:Cellcom Telecommunications, Inc:营运中:GSM 900 / GSM 1800:NULL
+LR:618:20:LIBTELCO:Liberia Telecommunications Corporation:营运中:CDMA2000:NULL
+LY:606:00:Libyana:Libyana:营运中:GSM900 / GSM 1800 / UMTS 2100:NULL
+LY:606:01:Madar:Al-Madar Al-Jadeed:营运中:GSM900 / GSM 1800:NULL
+LY:606:02:Al-Jeel Phone:Al-Jeel Al-Jadeed:营运中:GSM900 / GSM 1800:Uses Al-Madar for frequency access
+LY:606:03:Libya Phone:Libya Telecom and Technology (LTT):营运中:GSM900 / GSM 1800 / UMTS 2100:Uses Libyana for frequency access
+LY:606:06:Hatef Libya:Hatef Libya:营运中:CDMA2000:NULL
+LI:295:01:Swisscom:Swisscom Schweiz AG:营运中:GSM 900 / GSM 1800:NULL
+LI:295:02:Orange:Orange Liechtenstein:营运中:GSM 1800 / UMTS 2100:NULL
+LI:295:05:FL1:Mobilkom Liechtenstein AG:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LI:295:77:Alpmobil:Alpcom AG:营运中:GSM 900:Former Tele2, Tango
+LI:295:04:Cubic Telecom:Cubic Telecom AG:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LT:246:01:Omnitel:NULL:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LT:246:02:BITE:UAB Bité Lietuva:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LT:246:03:Tele 2:NULL:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LT:246:05:LitRail:Lithuanian Railways:营运中:GSM-R 900:NULL
+LT:246:06:Mediafon:UAB Mediafon:营运中:GSM 1800:NULL
+LU:270:01:LuxGSM:P&T Luxembourg:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LU:270:77:Tango:Tango SA:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LU:270:99:Orange:Orange S.A.:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former VOXmobile
+MO:455:00:SmarTone:SmarTone Macao:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MO:455:01:CTM:C.T.M. Telemovel+:营运中:GSM 900 / GSM 1800:NULL
+MO:455:02:China Telecom:China Telecom:营运中:CDMA2000 800:NULL
+MO:455:03:3:Hutchison Telecom:营运中:GSM 900 / GSM 1800:NULL
+MO:455:04:CTM:C.T.M. Telemovel+:营运中:GSM900 / GSM 1800 / UMTS 2100:NULL
+MO:455:05:3:Hutchison Telecom:营运中:UMTS 2100:NULL
+MO:455:06:SmarTone:SmarTone Macao:NULL:NULL:NULL
+MO:455:07:China Telecom:China Telecom:营运中:LTE:NULL
+MK:294:01:T-Mobile MK:T-Mobile Macedonia:营运中:GSM 900 / UMTS 2100:NULL
+MK:294:02:ONE:One:营运中:GSM 900 / UMTS 2100:Former 
+MK:294:03:Vip MK:VIP Operator:营运中:GSM 900 / GSM 1800:NULL
+MG:646:01:Airtel:Bharti Airtel:营运中:GSM 900 / GSM 1800:Former Celtel (Zain), Madacom 
+MG:646:02:Orange:Orange Madagascar S.A.:营运中:GSM 900:NULL
+MG:646:03:Sacel:Sacel Madagascar S.A.:营运中:GSM 900:NULL
+MG:646:04:Telma:Telma Mobile S.A.:营运中:GSM 900:NULL
+MW:650:01:TNM:Telecom Network Malawi:营运中:GSM 900 / GSM 1800:NULL
+MW:650:10:Airtel:Bharti Airtel Limited:营运中:GSM 900:Former Celtel (Zain)
+MY:502:01:ATUR 450:Telekom Malaysia Bhd:营运中:CDMA2000 450 (depreciated)011-(6digits):NULL
+MY:502:10:NULL:DiGi Telecommunications:NULL:NULL:NULL
+MY:502:11:TM Homeline:Telekom Malaysia Bhd :NULL:NULL:NULL
+MY:502:12:Maxis:Maxis Mobile Services SDN Berhad:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MY:502:13:Celcom:Celcom Axiata Berhad:营运中:GSM 900 / GSM 1800 / UMTS 2100:Formerly TMTouch
+MY:502:14:NULL:Telekom Malaysia Berhad for PSTN SMS:NULL:NULL:NULL
+MY:502:16:DiGi:DiGi Telecommunications:营运中:GSM 1800 / UMTS 2100:NULL
+MY:502:17:Hotlink:Maxis Prepaid:营运中:GSM 900 / GSM 1800 / UMTS 2100:Formerly TimeCel Adam017
+MY:502:18:U Mobile:U Mobile Sdn Bhd:营运中:UMTS 2100:Domestic Roaming with Celcom
+MY:502:18:TM Homeline:Telekom Malaysia Bhd:营运中:CDMA 850:On MCMC website, 502-18 is allocated to U Mobile 
+MY:502:19:Celcom:Celcom Axiata Berhad:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MY:502:20:NULL:Electcoms Wireless Sdn Bhd:营运中:CDMA:PTT and CDMA Technology. Uses TM CDMA 
+MY:502:150:Tune Talk:Tune Talk Sdn Bhd:营运中:MVNO:uses Celcom 
+MY:502:151:NULL:Baraka Telecom Sdn Bhd (MVNE):营运中:MVNO:SalamFone
+MY:502:152:Yes:YTL Communications Sdn Bhd:营运中:WiMAX 2.3 GHz / LTE 4G:NULL
+MV:472:01:Dhiraagu:Dhivehi Raajjeyge Gulhun:营运中:GSM 900:NULL
+MV:472:02:Wataniya:Wataniya Telecom Maldives:营运中:GSM 900 / UMTS 2100:NULL
+ML:610:01:Malitel:Malitel SA:营运中:GSM 900:NULL
+ML:610:02:Orange:Orange Mali SA:营运中:GSM 900:NULL
+MT:278:01:Vodafone:Vodafone Malta:营运中:GSM 900 / UMTS 2100:Supports MVNO 
+MT:278:21:GO:Mobisle Communications Limited:营运中:GSM 1800 / UMTS 2100:Supports MVNO PING 
+MT:278:77:Melita:Melita Plc:营运中:UMTS 2100:NULL
+MQ:340:01:Orange:Orange Caraïbe Mobiles:营运中:GSM 900:NULL
+MQ:340:02:Outremer:Outremer Telecom:营运中:GSM 900 / GSM 1800:NULL
+MQ:340:20:Digicel:DIGICEL Antilles Française Guyane:营运中:GSM 900:Former Bouygues Telecom Caraïbes
+MR:609:01:Mattel:Mattel:营运中:GSM 900:NULL
+MR:609:02:Chinguitel:Chinguitel:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MR:609:10:Mauritel:Mauritel Mobiles:营运中:GSM 900:NULL
+MU:617:01:Orange:Cellplus Mobile Communications Ltd.:营运中:GSM 900 / UMTS 2100:NULL
+MU:617:02:MTML:Mahanagar Telephone (Mauritius) Ltd.:营运中:CDMA2000:NULL
+MU:617:10:Emtel:Emtel Ltd:营运中:GSM 900 / UMTS 2100:NULL
+MX:334:010:Nextel:Nextel México:营运中:iDEN 800:NULL
+MX:334:020:Telcel:América Móvil / Mextel:营运中:TDMA 850 / GSM 1900 / UMTS 850:NULL
+MX:334:030:movistar:Pegaso Comunicaciones y Sistemas:营运中:CDMA2000 1900 / CDMA2000 800 / GSM 1900 / UMTS 850:NULL
+MX:334:040:Iusacell / Unefon:Iusacell / Unefon:营运中:CDMA2000 800 / CDMA2000 1900:NULL
+MX:334:050:Iusacell:Iusacell:营运中:GSM 850 / GSM 1900:NULL
+FM:550:01:NULL:FSM EMMANUEL:营运中:GSM 900 / GSM 1800:NULL
+MD:259:01:Orange:Orange Moldova:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former Voxtel
+MD:259:02:Moldcell:NULL:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MD:259:03:IDC:Interdnestrcom:营运中:CDMA 450 / CDMA 800:Sharing the same MNC with Unité
+MD:259:03:Unité:Moldtelecom:营运中:CDMA 450:Sharing the same MNC with IDC
+MD:259:04:Eventis:Eventis Telecom:非营运中:GSM 900 / GSM 1800:Bankruptcy - License suspended
+MD:259:05:Unité:Moldtelecom:营运中:UMTS 2100:NULL
+MD:259:99:Unité:Moldtelecom:营运中:UMTS 2100:Used for Femtocell service only
+MC:212:01:Office des Telephones:Monaco Telecom:营运中:GSM 900 / UMTS 2100:Used for the 
+MN:428:99:MobiCom:Mobicom Corporation:营运中:GSM 900 / UMTS 2100:NULL
+MN:428:88:Unitel:Unitel LLC:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MN:428:91:Skytel:Skytel LLC:营运中:CDMA2000 800 / UMTS 2100:NULL
+MN:428:98:G.Mobile:G-Mobile LLC:营运中:CDMA2000 450:NULL
+ME:297:01:Telenor:Telenor Montenegro:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former ProMonte GSM
+ME:297:02:T-Mobile:T-Mobile Montenegro LLC:营运中:GSM 900:NULL
+ME:297:03:m:tel CG:MTEL CG:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+ME:297:04:T-Mobile:T-Mobile Montenegro:营运中:GSM 900:NULL
+MA:604:00:Méditel:Medi Telecom:营运中:GSM 900 / GSM 1800:NULL
+MA:604:01:IAM:Ittissalat Al Maghrib (:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MA:604:02:INWI:WANA - Groupe ONA:营运中:GSM 900 / GSM 1800:NULL
+MZ:643:01:mCel:Mocambique Celular S.A.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MZ:643:04:Vodacom:Vodacom Mozambique, S.A.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+MM:414:01:MPT:Myanmar Post and Telecommunication:营运中:GSM 900:NULL
+MM:414:02:MEC:Myanmar Economic Corporation:营运中:CDMA2000 800MHz:NULL
+NA:649:01:MTC:MTC Namibia:营运中:GSM 900 / GSM 1800:NULL
+NA:649:02:switch:Telecom Namibia:营运中:CDMA2000 800:NULL
+NA:649:03:Leo:Orascom Telecom Holding:营运中:GSM 900 / GSM 1800:former Cell One
+NR:536:02:Digicel:Digicel (Nauru) Corporation:营运中:GSM 900 / GSM 1800 / UMTS 2100:Mnc is assigned to Digicel (Fiji) Limited to be used with Digicel networks in Nauru
+NP:429:01:Namaste / NT Mobile:Nepal Telecom:营运中:GSM 900 / GSM 1800:NULL
+NP:429:02:Ncell:Ncell Pvt. Ltd.:营运中:GSM 900 / GSM 1800:NULL
+NP:429:04:SmartCell:Smart Telecom Pvt. Ltd.:营运中:GSM 900 / GSM 1800:NULL
+NP:429:03:Sky/C-Phone:Nepal Telecom:营运中:CDMA2000 800:NULL
+NL:204:01:NULL:VastMobiel B.V.:非营运中:NULL:NULL
+NL:204:02:Tele2:Tele2 Nederland B.V.:营运中:NULL:NULL
+NL:204:03:NULL:Voiceworks B.V.:NULL:NULL:NULL
+NL:204:04:Vodafone:Vodafone Libertel B.V.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+NL:204:05:NULL:Elephant Talk Communications Premium Rate Services:NULL:NULL:NULL
+NL:204:06:NULL:Mundio Mobile (Netherlands) Ltd:NULL:NULL:NULL
+NL:204:07:NULL:Teleena (MVNE):营运中:MVNE:NULL
+NL:204:08:KPN:KPN Mobile The Netherlands B.V.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+NL:204:09:Lycamobile:Lycamobile Netherlands Limited:NULL:NULL:NULL
+NL:204:10:KPN:KPN B.V.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+NL:204:12:Telfort:KPN Mobile The Netherlands B.V.:营运中:National Roaming Agreement on KPN:NULL
+NL:204:13:NULL:Unica Installatietechniek B.V.:NULL:NULL:NULL
+NL:204:14:6Gmobile:6GMOBILE B.V.:营运中:MVNE:NULL
+NL:204:15:NULL:Ziggo B.V.:NULL:NULL:NULL
+NL:204:16:T-Mobile:T-Mobile Netherlands B.V:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+NL:204:17:Intercity Zakelijk:Intercity Mobile Communications B.V.:营运中:MVNE:NULL
+NL:204:18:NULL:UPC Nederland B.V.:NULL:NULL:NULL
+NL:204:19:NULL:Mixe Communication Solutions B.V.:NULL:NULL:NULL
+NL:204:20:T-Mobile:T-Mobile Netherlands B.V:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+NL:204:21:NULL:ProRail:营运中:GSM-R 900:NULL
+NL:204:22:NULL:Ministerie van Defensie:NULL:NULL:NULL
+NL:204:23:NULL:ASPIDER Solutions Nederland B.V.:营运中:MVNE:NULL
+NL:204:24:NULL:Private Mobility Nederland B.V.:NULL:NULL:NULL
+NL:204:25:NULL:CapX B.V.:营运中:PrivateGSM 1800:NULL
+NL:204:26:NULL:SpeakUp B.V.:NULL:NULL:NULL
+NL:204:27:NULL:Breezz Nederland B.V.:NULL:NULL:NULL
+NL:204:67:NULL:RadioAccess B.V.:营运中:PrivateGSM 1800:NULL
+NL:204:68:NULL:Unify Group Holding B.V.:NULL:NULL:NULL
+NL:204:69:NULL:KPN Mobile The Netherlands B.V.:NULL:NULL:NULL
+AN:362:51:Telcell:Telcell N.V.:营运中:GSM 900:St.Maarten 
+AN:362:69:Digicel:Curaçao Telecom N.V.:营运中:GSM 900 / GSM 1800:Curaçao
+AN:362:91:UTS:Setel N.V.:营运中:GSM 900:Chippie Land
+AN:362: ??:NULL:East Caribbean Cellular:营运中:GSM 900 / GSM 1800:NULL
+AN:362: ??:NULL:Antiliano Por N.V.:营运中:GSM 900:Live from July 2007
+AN:362:95:MIO:E.O.C.G. Wireless:营运中:CDMA2000 850:NULL
+AN:362:94:Bayòs:Bòbò Frus N.V.:营运中:TDMA PCS:Mobile Solutions
+NC:546:01:Mobilis:OPT New Caledonia:营运中:GSM 900:NULL
+NZ:530:00:Telecom:Telecom New Zealand:非营运中:AMPS 800 / TDMA 800:AMPS MIN based IMSI's
+NZ:530:01:Vodafone:Vodafone New Zealand:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:UMTS 2100 is used in urban areas. UMTS 900 is referred to as "3G extended" and used in rural areas.
+NZ:530:02:Telecom:Telecom New Zealand:营运中:CDMA2000 800:NULL
+NZ:530:03:Woosh:Woosh Wireless:营运中:UMTS 2000:Wireless Broadband only
+NZ:530:04:TelstraClear:TelstraClear:非营运中:UMTS 2100:Own a 3G spectrum licence but undeveloped, they have a wholesale agreement to resell Telecom's 530 02 CDMA 800 network
+NZ:530:05:XT Mobile Network:Telecom New Zealand:营运中:UMTS 850 / UMTS 2100:Launched nationwide 3G/UMTS services in Mid 2009. No GSM coverage.
+NZ:530:06:Skinny:Telecom New Zealand:营运中:UMTS 850 / UMTS 2100:Launched nationwide 3G/UMTS services in Dec 2011. No GSM coverage.
+NZ:530:24:2degrees:2degrees:营运中:GSM 900 / GSM 1800 / UMTS 2100:UMTS 2100 recently enabled
+NI:710:21:Claro:Empresa Nicaragüense de Telecomunicaciones, S.A.:营运中:UMTS 850 / GSM 1900:NULL
+NI:710:30:movistar:Telefónica Móviles de Nicaragua S.A.:营运中:UMTS 850 / GSM 850 / GSM 1900:CDMA 800, TDMA 800 and NAMPS 800 are not commercial
+NI:710:73:SERCOM:Servicios de Comunicaciones S.A.:营运中:UMTS 850 / GSM 1900:Not listed by the GSM Association (Merge with Claro)
+NE:614:01:SahelCom:NULL:营运中:GSM 900:NULL
+NE:614:02:Airtel:Bharti Airtel Limited:营运中:GSM 900:formerly 
+NE:614:03:Telecel:Telecel Niger SA:营运中:GSM 900:NULL
+NE:614:04:Orange:Orange Niger:营运中:GSM 900 / GSM 1800:NULL
+NG:621:20:Airtel:Bharti Airtel Limited:营运中:GSM 900 / GSM 1800:Former 
+NG:621:30:MTN:MTN Nigeria Communications Limited:营运中:GSM 900 / GSM 1800:NULL
+NG:621:40:M-Tel:Nigerian Mobile Telecommunications Limited:营运中:GSM 900 / GSM 1800:NULL
+NG:621:50:Glo:Globacom Ltd:营运中:GSM 900 / GSM 1800:NULL
+NG:621:60:Etisalat:Emerging Markets Telecommunication Services Ltd (:营运中:GSM 900 / GSM 1800:NULL
+NG:621:25:Visafone:Visafone Communications Ltd.:营运中:CDMA2000 800 / CDMA2000 1900:NULL
+NU:555:01:Telecom Niue:Telecom Niue:营运中:GSM 900:NULL
+NF:505:10:Norfolk Telecom:Norfolk Telecom:营运中:GSM 900:NULL
+NO:242:01:Telenor:NULL:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:NULL
+NO:242:02:NetCom:NetCom GSM:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+NO:242:03:Teletopia:Teletopia:非营运中:NULL:NULL
+NO:242:04:Tele2:Mobile Norway AS:营运中:MNO:NULL
+NO:242:05:Network Norway:Mobile Norway AS:营运中:UMTS 900 / UMTS 2100:NULL
+NO:242:06:Ice:Nordisk Mobiltelefon:营运中:CDMA2000 450:Data services only
+NO:242:07:Ventelo:Ventelo AS:营运中:MVNO of Telenor NO:NULL
+NO:242:08:TDC:TDC Mobil AS:营运中:MVNO:NULL
+NO:242:09:Com4:Com4 AS :营运中:MVNO:Principally 
+NO:242:11:SystemNet:SystemNet AS :NULL:Test:NULL
+NO:242:20:NULL:Jernbaneverket AS:营运中:GSM-R:NULL
+NO:242:23:Lyca:Lyca Mobile Ltd:营运中:MVNO:NULL
+OM:422:02:Oman Mobile:Oman Telecommunications Company:营运中:GSM 900 / GSM 1800:NULL
+OM:422:03:Nawras:Omani Qatari Telecommunications Company SAOC:营运中:GSM 900 / GSM 1800:NULL
+PK:410:01:Mobilink:Mobilink-PMCL:营运中:GSM 900 / GSM 1800:NULL
+PK:410:03:Ufone:Pakistan Telecommunication Mobile Ltd:营运中:GSM 900 / GSM 1800:NULL
+PK:410:04:Zong:China Mobile:营运中:GSM 900 / GSM 1800:Formerly Paktel
+PK:410:06:Telenor:Telenor Pakistan:营运中:GSM 900 / GSM 1800:NULL
+PK:410:07:Warid:WaridTel:营运中:GSM 900 / GSM 1800:NULL
+PW:552:01:PNCC:Palau National Communications Corp.:营运中:GSM 900:NULL
+PW:552:80:Palau Mobile:Palau Mobile Corporation:营运中:GSM 1800:NULL
+PS:425:05:Jawwal:Palestine Cellular Communications, Ltd.:营运中:GSM 900:[9]
+PS:425:06:Wataniya:Wataniya Palestine Mobile Telecommunications Company:营运中:GSM 900 / GSM 1800:[10]
+PA:714:01:Cable & Wireless:Cable & Wireless Panama S.A.:营运中:GSM 850 / UMTS 850:NULL
+PA:714:02:movistar:Telefonica Moviles Panama S.A, Bell South Corp. (BSC):营运中:GSM 850 / UMTS 850 / UMTS 1900:CDMA2000 800, TDMA 800 and NAMPS 800 are closed.
+PA:714:04:Digicel:Digicel Group:营运中:GSM 1800 / GSM 1900:NULL
+PA:714:03:Claro:América Móvil:营运中:GSM 1900 / UMTS 1900:NULL
+PG:537:01:B-Mobile:Pacific Mobile Communications:营运中:GSM 900:NULL
+PG:537:03:Digicel:Digicel PNG:营运中:GSM 900:NULL
+PY:744:01:VOX:Hola Paraguay S.A:营运中:GSM 1800:NULL
+PY:744:02:Claro:AMX Paraguay S.A.:营运中:GSM 1900 / UMTS 1900:NULL
+PY:744:04:Tigo:Telefonica Celular Del Paraguay S.A. (Telecel):营运中:GSM 850 / UMTS 850:NULL
+PY:744:05:Personal:Núcleo S.A:营运中:GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900:NULL
+PY:744:06:Copaco:Copaco S.A.:营运中:GSM 1800:NULL
+PE:716:06:Movistar:Telefónica Móviles Perú:营运中:CDMA2000 850 / GSM 850 / UMTS 850:NULL
+PE:716:07:NEXTEL:NII Holdings:营运中:iDEN / UMTS 1900:NULL
+PE:716:10:Claro:América Móvil Perú:营运中:GSM 1900 / UMTS 850:NULL
+PH:515:01:Islacom:Globe Telecom:非营运中:GSM 900:NULL
+PH:515:02:Globe:Globe Telecom:营运中:EDGE 900 / EDGE 1800 / UMTS 850 / UMTS 2100:NULL
+PH:515:03:Smart:PLDT via :营运中:EDGE 900 / EDGE 1800 / UMTS 850 / UMTS 2100:NULL
+PH:515:05:Sun:Digital Telecommunications Philippines:营运中:EDGE 1800 / UMTS 2100:NULL
+PH:515:11:NULL:PLDT via ACeS Philippines:NULL:NULL:NULL
+PH:515:18:Cure:PLDT via Smart's Connectivity Unlimited Resources Enterprise:营运中:GSM 900 / UMTS 2100 (defunct):Formerly ümobile, now D/B/A 
+PH:515:88:NULL:Nextel:NULL:NULL:NULL
+PL:260:01:Plus:Polkomtel S.A.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+PL:260:02:T-Mobile:Polska Telefonia Cyfrowa Sp. z o.o.:营运中:GSM 900 / GSM 1800 / UMTS 2100:former Era
+PL:260:03:Orange:Polska Telefonia Komórkowa Centertel Sp. z o.o.:营运中:GSM 900 / GSM 1800 / UMTS 2100 / CDMA2000 450:former Idea
+PL:260:04:NULL:not in use:非营运中:NULL:Network code originally assigned to Tele2 Polska Sp. z o.o.
+PL:260:05:NULL:Polska Telefonia Komórkowa Centertel Sp. z o.o.:营运中:UMTS 2100:not in use, using MNC 03
+PL:260:06:Play:P4 Sp. z o.o.:营运中:GSM 900 / UMTS 2100:Also roaming on Polkomtel 2G/3G network
+PL:260:07:Netia:Netia S.A.:营运中:GSM 900 / UMTS 2100:MVNO
+PL:260:08:NULL:E-Telko Sp. z o.o.:非营运中:NULL:NULL
+PL:260:09:NULL:Telekomunikacja Kolejowa Sp. z o.o.:非营运中:GSM-R 900:railways communication
+PL:260:10:Sferia:Sferia S.A.:营运中:UMTS 850:Formerly assigned to Telefony Opalenickie S.A.
+PL:260:11:Nordisk Polska:Nordisk Polska Sp. z o.o.:营运中:CDMA2000 420:NULL
+PL:260:12:Cyfrowy Polsat:Cyfrowy Polsat S.A.:营运中:GSM 900 / GSM 1800 / UMTS 2100:MVNO
+PL:260:15:CenterNet:CenterNet S.A.:营运中:UMTS 1800:LTE1800 with 20 MHz channels. Used wRodzinie brand cards until 2010, now data transmission only.
+PL:260:16:Mobyland:Mobyland Sp. z o.o.:营运中:UMTS 1800:LTE1800 with 20 MHz channels 
+PL:260:17:Aero2:Aero 2 Sp. z o.o.:营运中:UMTS 900:NULL
+PT:268:01:Vodafone:Vodafone Portugal:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+PT:268:03:Optimus:Sonaecom – Serviços de Comunicações, S.A.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+PT:268:06:TMN:Telecomunicações Móveis Nacionais:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+PT:268:21:Zapp:Zapp Portugal:营运中:CDMA2000 450:NULL
+PR:330:110:Claro:Puerto Rico Telephone Company:营运中:GSM 850 / GSM 1900 / UMTS 850:NULL
+PR:330:00:Open Mobile:PR Wireless:营运中:700 / PCS 1900 / AWS 1700:NULL
+QA:427:01:Qtel:Qtel:营运中:GSM 900 / GSM 1800:NULL
+QA:427:02:Vodafone:Vodafone Qatar:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+QA:427:05:Ministry of Interior:Ministry of Interior:营运中:TETRA 380:NULL
+RE:647:00:Orange:Orange La Réunion:营运中:GSM 900 / GSM 1800:NULL
+RE:647:02:Outremer:Outremer Telecom:营运中:GSM 900 / GSM 1800:NULL
+RE:647:10:SFR Reunion:Societe Reunionnaise de Radiotelephone:营运中:GSM 900:NULL
+RO:226:01:Vodafone:Vodafone România:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:Formerly branded as Connex
+RO:226:02:Romtelecom:Romtelecom:营运中:CDMA2000 (1x & EVDO Rev.A) 420 Mhz:NULL
+RO:226:03:Cosmote:Cosmote România:营运中:EGSM 900 / GSM 1800:Formerly branded as Cosmorom
+RO:226:04:Cosmote:Cosmote România:营运中:CDMA2000 (1x & EVDO Rel.0 & EVDO Rev.A) 450 Mhz:Formerly branded as Zapp
+RO:226:05:Digi.Mobil:RCS&RDS:营运中:UMTS 2100:NULL
+RO:226:06:Cosmote:Cosmote România:营运中:UMTS 2100:Formerly branded as Zapp
+RO:226:10:Orange:Orange România:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:Formerly branded as Dialog
+RO:226:11:Enigma-System:Enigma-System:非营运中:MVNO:NULL
+RU:250:01:MTS:Mobile TeleSystems:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:NULL
+RU:250:02:MegaFon:MegaFon OJSC——以前被称为西北GSM:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:NULL
+RU:250:03:NCC:Nizhegorodskaya Cellular Communications:营运中:GSM 900 / GSM 1800:NULL
+RU:250:04:Sibchallenge:Sibchallenge:非营运中:GSM 900:NULL
+RU:250:05:ETK:Yeniseytelecom:营运中:GSM 900 / GSM 1800:Mobile Communications Systems
+RU:250:06:Skylink :CJSC Saratov System of Cellular Communications:营运中:CDMA2000 450:NULL
+RU:250:07:SMARTS:Zao SMARTS:营运中:GSM 900 / GSM 1800:NULL
+RU:250:09:Skylink:Khabarovsky Cellular Phone:营运中:CDMA2000 450:NULL
+RU:250:10:DTC:Dontelekom:非营运中:GSM 900:NULL
+RU:250:11:Yota:Scartel:营运中:LTE 2600:NULL
+RU:250:12:Baykalwestcom:Baykal Westcom / New Telephone Company / Far Eastern Cellular:营运中:GSM 900 / GSM 1800 / CDMA2000 450:NULL
+RU:250:12:Akos:NULL:营运中:GSM 1800:NULL
+RU:250:13:KUGSM:Kuban GSM:非营运中:GSM 900 / GSM 1800:NULL
+RU:250:15:SMARTS:SMARTS Ufa, SMARTS Uljanovsk:营运中:GSM 1800:NULL
+RU:250:16:NTC:New Telephone Company:营运中:GSM 900 / GSM 1800:NULL
+RU:250:17:Utel:JSC :营运中:GSM 900 / GSM 1800:Former Ermak RMS
+RU:250:19:INDIGO:INDIGO:非营运中:GSM 1800:Since 19 December 2009 merged with Tele2
+RU:250:20:Tele2:Tele2:营运中:GSM 900 / GSM 1800:NULL
+RU:250:23:Mobicom - Novosibirsk:Mobicom - Novosibirsk:非营运中:GSM 900 / GSM 1800:NULL
+RU:250:28:Beeline:Beeline:非营运中:GSM 900:Former EXTEL
+RU:250:35:MOTIV:MOTIV:营运中:GSM 1800:NULL
+RU:250:38:Tambov GSM:Central Telecommunication Company:营运中:GSM 900 / GSM 1800:NULL
+RU:250:39:Utel:Uralsvyazinform:营运中:GSM 900 / GSM 1800:NULL
+RU:250:44:NULL:Stavtelesot / North Caucasian GSM:非营运中:NULL:NULL
+RU:250:92:NULL:Primtelefon:非营运中:NULL:NULL
+RU:250:93:NULL:Telecom XXI:非营运中:NULL:NULL
+RU:250:99:Beeline:OJSC Vimpel-Communications:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+RU:250: ?:NULL:SkyLink/MTS/the Moscow Cellular communication:营运中:CDMA2000 450:NULL
+RW:635:10:MTN:MTN Rwandacell SARL:营运中:GSM 900:NULL
+RW:635:12:Rwandatel:Rwandatel S.A.:非营运中:GSM ???:GSM licence revoked in April 2011 
+RW:635:13:Tigo:TIGO RWANDA S.A:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SKN:356:050:Digicel:NULL:营运中:GSM 900 / GSM 1800 / GSM 1900:NULL
+SKN:356:110:NULL:LIME:营运中:GSM 850 / GSM 1900:NULL
+SKN:356:070:Chippie:UTS:营运中:NULL:NULL
+LC:358:050:Digicel:NULL:NULL:GSM 900 / GSM 1800 / GSM 1900:NULL
+LC:358:110:NULL:Cable & Wireless:NULL:GSM 850:NULL
+PM:308:01:Ameris:St. Pierre-et-Miquelon Télécom:营运中:GSM 900:NULL
+VC:360:070:Digicel:NULL:NULL:GSM 900 / GSM 1800 / GSM 1900:NULL
+VC:360:100:Cingular Wireless:NULL:NULL:GSM 850:NULL
+VC:360:110:Cable & Wireless:Cable & Wireless:NULL:GSM 850:NULL
+WS:549:01:Digicel:Digicel Pacific Ltd.:营运中:GSM 900:NULL
+WS:549:27:SamoaTel:SamoaTel Ltd:营运中:GSM 900:NULL
+SM:292:01:PRIMA:San Marino Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+ST:626:01:CSTmovel:Companhia Santomese de Telecomunicaçôe:营运中:GSM 900:NULL
+SA:420:01:Al Jawal:Saudi Telecom Company:营运中:GSM 900 / UMTS 2100:NULL
+SA:420:03:Mobily:Etihad Etisalat Company:营运中:GSM 900 / UMTS 2100:NULL
+SA:420:04:Zain:Zain Saudi Arabia:营运中:GSM 900 / GSM 1800 / UMTS 2100:Active September 2008 
+SN:608:01:Orange:Sonatel:营运中:GSM 900 / UMTS 2100:NULL
+SN:608:02:Tigo:Millicom International Cellular S.A.:营运中:GSM 900 / UMTS 2100:former SENTEL GSM
+SN:608:03:Expresso:Sudatel:营运中:GSM 900 / UMTS 2100:NULL
+RS:220:01:Telenor:Telenor Serbia:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former MOBTEL
+RS:220:02:Telenor:Telenor Montenegro:营运中:GSM 900 / GSM 1800 / UMTS 2100:To be discounted on November, 1. Is moving to 297 01
+RS:220:03:mt:s:Telekom Srbija:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+RS:220:05:VIP:VIP Mobile:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SC:633:01:Cable & Wireless:Cable & Wireless Seychelles:营运中:GSM 900:NULL
+SC:633:02:Mediatech International:Mediatech International:营运中:GSM 1800:NULL
+SC:633:10:Airtel:Telecom Seychelles Ltd:营运中:GSM 900 / UMTS 2100:NULL
+SL:619:01:Airtel:Bharti Airtel Limited:营运中:GSM 900:Former Zain, Celtel
+SL:619:02:Tigo:Millicom (SL) Limited:NULL:NULL:Africell acquired Millicom in 2009
+SL:619:03:Africell:Lintel Sierra Leone Limited:营运中:GSM 900:NULL
+SL:619:04:Comium:Comium Sierra leone INC:营运中:GSM 900/1800:NULL
+SL:619:05:Africell:Lintel Sierra Leone Limited:营运中:GSM 900:NULL
+SL:619:25:Mobitel:Mobitel:营运中:NULL:NULL
+SL:619: ?:LeoneCel:Sierratel:Reserved:NULL:NULL
+SG:525:01:SingTel:Singapore Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SG:525:02:SingTel-G18:Singapore Telecom:营运中:GSM 1800:NULL
+SG:525:03:M1:MobileOne Asia:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SG:525:05:StarHub:StarHub Mobile:营运中:GSM 1800 / UMTS 2100:NULL
+SG:525:12:NULL:Digital Trunked Radio Network:营运中:iDEN 800:NULL
+SK:231:01:Orange:Orange Slovensko:营运中:GSM 900 / GSM 1800 / UMTS 2100:,
+SK:231:02:T-Mobile:T-Mobile Slovensko:营运中:GSM 900 / GSM 1800:Former Eurotel
+SK:231:03:NULL:Unient Communications:NULL:NULL:NULL
+SK:231:04:T-Mobile:T-Mobile Slovensko:营运中:UMTS 2100:NULL
+SK:231:06:O:Telefónica O2 Slovakia:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SK:231:99:ŽSR:Železnice Slovenskej Republiky:营运中:GSM-R:Railway communication and signalling
+SI:293:40:Si.mobil:SI.MOBIL d.d.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SI:293:41:Mobitel:Mobitel D.D.:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SI:293:64:T-2:T-2 d.o.o.:营运中:UMTS 2100:NULL
+SI:293:70:Tušmobil:Tušmobil d.o.o.:营运中:GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100:NULL
+SB:540:01:BREEZE:Solomon Telekom Co Ltd:营运中:GSM 900:NULL
+SO:637:60:Nationlink Telecom:Nationlink Telecom:营运中:GSM 900/ GSM 1800:NULL
+SO:637:01:Telesom:Telesom:营运中:GSM 900:NULL
+SO:637:04:Somafone:Somafone FZLLC:营运中:GSM 900 / GSM 1800:NULL
+SO:637:10:Nationlink:NationLink Telecom:营运中:GSM 900:NULL
+SO:637:25:Hormuud:Hormuud Telecom Somalia Inc:营运中:GSM 900:Uncertain MNC number
+SO:637:30:Golis:Golis Telecom Somalia:营运中:GSM 900:NULL
+SO:637:82:Telcom:Telcom Somalia:营运中:GSM 900 / GSM 1800 / CDMA2000:NULL
+ZA:655:01:Vodacom:Vodacom:营运中:GSM 900 / UMTS 2100:NULL
+ZA:655:02:Telkom Mobile / 8.ta:Telkom:营运中:GSM 1800 / UMTS 2100:NULL
+ZA:655:06:Sentech:NULL:营运中:NULL:NULL
+ZA:655:07:Cell C:Cell C:营运中:GSM 900 / GSM 1800 / UMTS 900:NULL
+ZA:655:10:MTN:MTN Group:营运中:GSM 900 / UMTS 2100 / UMTS 900:NULL
+ZA:655:11:NULL:South African Police Service:营运中:TETRA 410:NULL
+ZA:655:13:Neotel:NULL:营运中:CDMA2000 800:NULL
+ZA:655:21:NULL:Cape Town Metropolitan Council:营运中:TETRA 410:NULL
+ZA:655:30:NULL:Bokamoso Consortium:营运中:NULL:NULL
+ZA:655:31:NULL:Karabo Telecoms (Pty) Ltd.:营运中:NULL:NULL
+ZA:655:32:NULL:Ilizwi Telecommunications:营运中:NULL:NULL
+ZA:655:33:NULL:Thinta Thinta Telecommunications:营运中:NULL:NULL
+无ISO代码:250:30:Megafon:Ostelecom:营运中:GSM 900 / GSM 1800:Russia
+:659 :(null):NULL:NULL:NULL:NULL:NULL
+ES:214:01:Vodafone:Vodafone Spain:营运中:GSM 900 / GSM 1800 / UMTS 2100:Also use MNC 019 and also 015 Some MVNO use this MNC (Hits, Eroski, Lebara, PepePhone)
+ES:214:03:Orange:France Telecom España SA:营运中:GSM 900 / GSM 1800 / UMTS 2100:Also use MNC 033 Some MVNO use this MNC (CarrefourOnline, Dia, Hualong, Llamaya, MasMovil, The Phone House Spain)
+ES:214:04:Yoigo:Xfera Moviles SA:营运中:UMTS 2100:NULL
+ES:214:05:TME:Telefónica Móviles España:营运中:GSM 900 / GSM 1800 / UMTS 2100:Used by resellers
+ES:214:06:Vodafone:Vodafone Spain:营运中:GSM 900 / GSM 1800 / UMTS 2100:Used by resellers/Also use MNC 019
+ES:214:07:movistar:Telefónica Móviles España:营运中:GSM 900 / GSM 1800 / UMTS 2100:Some MVNO use this MNC (Tu, Sweno, Vectone Movil, ZeroMovil)
+ES:214:08:Euskaltel:NULL:营运中:MVNO:Some MVNO use this MNC (RACC)
+ES:214:09:Orange:France Telecom España SA:营运中:GSM 900 / GSM 1800 / UMTS 2100:Used by resellers
+ES:214:15:BT:BT Group:营运中:MVNO:NULL
+ES:214:16:TeleCable:Telecable de Asturias S.A.U.:营运中:MVNO:NULL
+ES:214:17:Móbil R:R Cable y Telecomunicaciones Galicia S.A.:营运中:MVNO:NULL
+ES:214:18:ONO:Cableuropa S.A.U.:营运中:MVNO:NULL
+ES:214:19:Simyo:E-PLUS Moviles Virtuales España S.L.U.:营运中:MVNO:NULL
+ES:214:20:Fonyou:Fonyou Telecom S.L.:营运中:MVNO:NULL
+ES:214:21:Jazztel:Jazz Telecom S.A.U.:营运中:MVNO:NULL
+ES:214:22:DigiMobil:Best Spain Telecom:营运中:MVNO:NULL
+ES:214:23:Barablu:Barablu Móvil España:NULL:MVNO:NULL
+ES:214:24:Eroski:Eroski Móvil España:营运中:MVNO:Also use MNC 01. Some MVNO use this MNC (Orbitel, Vizzavi)
+ES:214:25:LycaMobile:LycaMobile S.L.:营运中:MVNO:NULL
+LK:413:01:Mobitel:Sri Lanka Telecom Mobitel:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LK:413:02:Dialog:Dialog Axiata:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former MTN
+LK:413:03:Etisalat:Emirates Telecommunication Corporation:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LK:413:05:Airtel:Bharti Airtel:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+LK:413:08:Hutch:Hutchison Telecommunications Lanka:营运中:GSM 900:NULL
+SD:634:01:Zain:Zain Group - Sudan:营运中:GSM 900 / UMTS 2100:Former, Mobitel
+SD:634:02:MTN:MTN Sudan:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SD:634:05:Vivacell:Wawat Securities:营运中:GSM 900 / GSM 1800:Coverage only in South Sudan
+SD:634:07:Sudani One:Sudatel Group:营运中:GSM 1800 / UMTS 2100 / CDMA2000 800:NULL
+SD:634:(null):Canar:Canar Telecom:营运中:CDMA2000 450:NULL
+SR:746:02:Telesur:Telecommunications Company Suriname (Telesur):营运中:GSM 900 / GSM 1800:NULL
+SR:746:03:Digicel:Digicel Group Limited:营运中:GSM 900/ GSM 1800:NULL
+SR:746:04:Uniqa:Intelsur N.V. / UTS N.V.:营运中:GSM 900:NULL
+SZ:653:10:NULL:Swazi MTN:营运中:GSM 900:NULL
+SE:240:01:Telia:SwedenTeliaSonera:营运中:GSM 900 / GSM 1800:NULL
+SE:240:02:3:Hutchison 3G:营运中:UMTS 900 / UMTS 2100:NULL
+SE:240:03:Ice.net:Nordisk Mobiltelefon:营运中:CDMA2000 450:NULL
+SE:240:04:NULL:3G Infrastructure Services:营运中:UMTS 2100:Owned by Hi3G Access (3) and Telenor
+SE:240:05:Sweden 3G:Svenska UMTS-Nät:营运中:UMTS 2100:Owned by 
+SE:240:06:Telenor:Telenor Sweden:营运中:UMTS 2100:NULL
+SE:240:07:Tele2:Tele2 Sweden:营运中:GSM 900 / GSM 1800:NULL
+SE:240:08:Telenor:Telenor Sweden:营运中:GSM 900 / GSM 1800:NULL
+SE:240:09:djuice:Telenor Sweden:营运中:GSM 900 / GSM 1800:NULL
+SE:240:10:Spring Mobil:Tele2:营运中:NULL:NULL
+SE:240:11:NULL:Lindholmen Science Park:NULL:NULL:NULL
+SE:240:12:NULL:Barablu Mobile Scandinavia:NULL:NULL:NULL
+SE:240:13:NULL:Ventelo Sverige:NULL:NULL:NULL
+SE:240:14:NULL:TDC Mobil:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SE:240:15:NULL:Wireless Maingate Nordic:NULL:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SE:240:16:NULL:42IT:营运中:GSM:NULL
+SE:240:17:Gotanet:Götalandsnätet:NULL:NULL:NULL
+SE:240:20:NULL:Wireless Maingate Message Services:营运中:GSM:NULL
+SE:240:21:MobiSir:Trafikverket:营运中:GSM-R:NULL
+SE:240:24:Sweden 2G:Net4Mobility:营运中:GSM 900/1800:Owned by 
+SE:240:25:NULL:DigiTelMobile:NULL:NULL:NULL
+SE:240:26:NULL:Beepsend:营运中:GSM:NULL
+SE:240:33:NULL:Mobile Arts AB:NULL:NULL:NULL
+CH:228:01:Swisscom:Swisscom Ltd:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+CH:228:02:Sunrise:Sunrise Communications AG:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+CH:228:03:Orange:Orange Communications SA:营运中:GSM 1800 / UMTS 2100:NULL
+CH:228:05:NULL:Togewanet AG (Comfone):Reserved:NULL:Planned
+CH:228:06:SBB-CFF-FFS:SBB AG:营运中:GSM-R 900:NULL
+CH:228:07:IN&Phone:IN&Phone SA:营运中:GSM 1800:NULL
+CH:228:08:Tele2:Tele2 Telecommunications AG:营运中:GSM 1800:NULL
+CH:228:50:NULL:3G Mobile AG:Reserved:UMTS 2100:Planned
+CH:228:51:NULL:BebbiCell AG:营运中:MVNO:Also for paging
+SY:417:01:Syriatel:Syriatel Mobile Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+SY:417:02:MTN:MTN Syria:营运中:GSM 900 / GSM 1800 / UMTS 2100:Former Spacetel
+TW:466:01:远传电信:远传电信股份有限公司:营运中:GSM 900:NULL
+TW:466:03:远传电信:远传电信股份有限公司:营运中:UMTS 2100 / FDD-LTE 700 1800 2600 / TDD-LTE 2600:NULL
+TW:466:05:亚太电信:亚太电信股份有限公司:营运中:CDMA2000 800 / FDD-LTE 700 / TDD-LTE 2600:NULL
+TW:466:06:东荣电信:东荣国际电信:非营运中:GSM 1800:已并入和信电讯
+TW:466:11:中华电信:中华电信股份有限公司长途与移动通信分公司:营运中:GSM 1800:NULL
+TW:466:12:国碁电子:国碁电子:非营运中:FDD-LTE 700 900:已并入亚太电信，A3频段5mhz卖给台湾大哥大
+TW:466:88:和信电讯:和信电讯:非营运中:GSM 1800:已并入远传电信
+TW:466:89:台湾之星:台湾之星电信股份有限公司:营运中:UMTS 2100 / FDD-LTE 900 2600:原威宝电信
+TW:466:92:中华电信:中华电信股份有限公司:营运中:GSM 900 / UMTS 2100:NULL
+TW:466:93:东信电讯:东信电讯股份有限公司:非营运中:GSM 900:已并入台湾大哥大
+TW:466:97:台湾大哥大:台湾大哥大股份有限公司:营运中:GSM 1800 / UMTS 2100 / FDD-LTE 700 1800:NULL
+TW:466:99:泛亚电信:泛亚电信股份有限公司:非营运中:GSM 900:已并入台湾大哥大
+TJ:436:01:Tcell:JV Somoncom:营运中:GSM 900:NULL
+TJ:436:02:Tcell:Indigo Tajikistan:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+TJ:436:03:MLT:TT Mobile:营运中:GSM 900 / GSM 1800:NULL
+TJ:436:04:Babilon-M:Babilon-Mobile:营运中:GSM 900 / GSM 1800 / UMTS 2100:[13]
+TJ:436:05:Beeline:Vimpelcom:营运中:GSM 900 / GSM 1800 / UMTS 2100:[14]
+TJ:436:12:Tcell:Indigo:NULL:UMTS 2100:NULL
+TZ:640:02:tiGO:MIC Tanzania Limited:营运中:GSM 900 / GSM 1800:Former Mobitel and Buzz
+TZ:640:03:Zantel:Zanzibar Telecom Ltd:营运中:GSM 900 / GSM 1800:NULL
+TZ:640:04:Vodacom:Vodacom Tanzania:营运中:GSM 900 / GSM 1800:NULL
+TZ:640:05:Airtel:Bharti Airtel:营运中:GSM 900 / GSM 1800:Former Celtel (Zain) 
+TZ:640:06:Sasatel:Dovetel Limited:营运中:CDMA:NULL
+TZ:640:07:TTCL Mobile:Tanzania Telecommunication Company LTD (TTCL):营运中:CDMA 800:NULL
+TZ:640:08:Benson Online (BOL):Benson Informatics Limited:营运中:CDMA:NULL
+TZ:640:09:Hits:ExcellentCom Tanzania Limited:Reserved: ???:NULL
+TZ:640:11:SmileCom:Smile Telecoms Holdings Ltd.:营运中: ???:NULL
+TH:520:00:"my" CAT 3G+:CAT Telecom:营运中:UMTS 850:True Move在网GSM漫游
+TH:520:01:AIS:Advanced Info Service:营运中:GSM 900 / UMTS 900:NULL
+TH:520:02:CAT CDMA:CAT Telecom:营运中:CDMA 1x-EVDO 850:NULL
+TH:520:10: ?:WCS IQ:NULL:NULL:NULL
+TH:520:15:TOT 3G:Telephone Organization of Thailand (TOT):营运中:UMTS 2100:Former known as Thaimobile 1900 (ACT Mobile)
+TH:520:18:dtac:Total Access Communication:营运中:GSM 1800 / UMTS 850:NULL
+TH:520:23:AIS GSM 1800:Digital Phone (AIS):营运中:GSM 1800:NULL
+TH:520:88:True Move H:True Corporation:营运中:UMTS 850:Uses CAT 3G+ for radio access, also GSM roaming with True Move
+TH:520:99:True Move:True Corporation:营运中:GSM 1800:NULL
+TH:520: ??:WE PCT:True Corporation:营运中:PHS 1900:NULL
+TG:615:01:Togo Cell:Togo Telecom:营运中:GSM 900:NULL
+TG:615:03:Moov:Moov Togo:营运中:GSM 900:NULL
+TO:539:01:NULL:Tonga Communications Corporation:营运中:NULL:NULL
+TO:539:43:NULL:Shoreline Communication:营运中:NULL:NULL
+TO:539:88:Digicel:NULL:营运中:GSM:NULL
+TT:374:12:bmobile:TSTT:营运中:GSM 850 / GSM 1800:NULL
+TT:374:130:Digicel:Digicel (Trinidad & Tobago) Limited:营运中:GSM 850 / GSM 1900:NULL
+TN:605:01:Orange:Orange Tunisie:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+TN:605:02:Tunicell:Tunisie Telecom:营运中:GSM 900 / GSM 1800:NULL
+TN:605:03:Tunisiana:Orascom Telecom Tunisie:营运中:GSM 900 / GSM 1800:NULL
+TR:286:01:Turkcell:Turkcell:营运中:GSM 900 / UMTS 2100:NULL
+TR:286:02:Vodafone:Vodafone Turkey:营运中:GSM 900 / UMTS 2100:Formerly known as Telsim
+TR:286:03:Avea:NULL:营运中:GSM 1800 / UMTS 2100:Formerly Aria and Aycell
+TR:286:04:NULL:Aycell:非营运中:GSM 1800:Merged into Aria to form Avea
+TM:438:01:MTS:Barash Communication Technologies:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+TM:438:02:TM-Cell:Altyn Asyr:营运中:GSM 900 / GSM 1800:NULL
+TC:376:350:C&W:Cable & Wireless West Indies Ltd (Turks & Caicos):NULL:GSM 850:NULL
+TC:376:352:Islandcom:Islandcom Telecommunications:NULL:GSM 900:NULL
+TC:338:05:Digicel:Digicel (Turks & Caicos) Limited:营运中:GSM 900 / GSM 1800 / GSM 1900:NULL
+TV:553:01:TTC:Tuvalu Telecom:营运中:GSM 900:NULL
+UG:641:01:Airtel:Bharti Airtel:营运中:GSM 900:Former Celtel (Zain)
+UG:641:10:MTN:MTN Uganda:营运中:GSM 900:NULL
+UG:641:11:UTL:Uganda Telecom Ltd.:营运中:GSM 900 / UMTS 2100:NULL
+UG:641:14:Orange:Orange Uganda:营运中:GSM 900 / GSM 1800:Former HITS Telecom
+UG:641:22:Warid Telecom:Warid Telecom:营运中:GSM 900 / GSM 1800:NULL
+UA:255:01:MTS:Ukrainian Mobile Communications:营运中:GSM 900 / GSM 1800 / CDMA 450:Former UMC
+UA:255:02:Beeline:Ukrainian Radio Systems:营运中:GSM 900 / GSM 1800:Former WellCOM
+UA:255:03:Kyivstar:Kyivstar GSM JSC:营运中:GSM 900 / GSM 1800:NULL
+UA:255:04:IT:Intertelecom:营运中:CDMA 800:NULL
+UA:255:05:Golden Telecom:Golden Telecom:营运中:GSM 1800:NULL
+UA:255:06:life:):Astelit:营运中:GSM 900 / GSM 1800:NULL
+UA:255:07:Ukrtelecom:Ukrtelecom:营运中:UMTS 2100:GSM roaming with Kyivstar
+UA:255:21:PEOPLEnet:Telesystems of Ukraine:营运中:CDMA 800:NULL
+UA:255:23:CDMA Ukraine:ITC:营运中:CDMA 800:NULL
+AE:424:02:Etisalat:E mirates Telecom Corp:营运中:GSM 900 / UMTS 2100:NULL
+AE:424:03:du:Emirates Integrated Telecommunications Company:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:00:BT:BT Group:营运中:GSM 900 / GSM 1800 / UMTS 2100:UK MNC list from OfCom: 
+UK:234:01:Vectone Mobile:Mundio Mobile Limited:营运中:GSM 1800:Previously: Mapesbury Communications Ltd.
+UK:234:02:O2:Telefónica O2 UK Limited:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:03:Airtel-Vodafone:Jersey Airtel Limited:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:04:FMS Solutions Ltd:FMS Solutions Ltd:Reserved:GSM 1800:NULL
+UK:234:05:NULL:COLT Mobile Telecommunications Limited:NULL:NULL:NULL
+UK:234:06:NULL:Internet Computer Bureau Limited:NULL:NULL:NULL
+UK:234:07:NULL:Cable & Wireless UK:营运中:NULL:NULL
+UK:234:08:NULL:OnePhone (UK) Ltd:NULL:NULL:NULL
+UK:234:09:NULL:Tismi BV:NULL:NULL:NULL
+UK:234:10:O2:Telefónica O2 UK Limited:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:11:O2:Telefónica Europe:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:12:Railtrack:Network Rail Infrastructure Ltd:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:13:Railtrack:Network Rail Infrastructure Ltd:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:14:Hay Systems Ltd:Hay Systems Ltd:营运中:NULL:NULL
+UK:234:15:Vodafone:Vodafone United Kingdom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:16:Talk Talk:TalkTalk:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:17:NULL:FleXtel Limited:NULL:NULL:NULL
+UK:234:18:Cloud9:Cloud9:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:19:Private Mobile Networks PMN:Teleware plc:营运中:GSM 1800:NULL
+UK:234:20:Three:Hutchison 3G UK Ltd:营运中:UMTS 2100:NULL
+UK:234:22:RoutoMessaging:Routo Telecommunications Limited:营运中:NULL:NULL
+UK:234:24:Greenfone:Stour Marine:营运中:Unknown:NULL
+UK:234:25:Truphone:Software Cellular Network Ltd:营运中:GSM 900 / GSM 1800 / UMTS 2100:Uses Vodafone for radio access
+UK:234:30:T-Mobile:Everything Everywhere Limited (TM):营运中:GSM 1800 / UMTS 2100:Previously T-Mobile
+UK:234:31:Virgin:Virgin Mobile:营运中:GSM 900 / GSM 1800 / UMTS 2100:Operated by Everything Everywhere Limited (TM)
+UK:234:32:Virgin:Virgin Mobile:营运中:GSM 900 / GSM 1800 / UMTS 2100:Operated by Everything Everywhere Limited (TM)
+UK:234:33:Orange:Orange UK:营运中:GSM 1800 / UMTS 2100:NULL
+UK:234:34:Orange:Orange UK:营运中:GSM 1800 / UMTS 2100:NULL
+UK:234:35:NULL:JSC Ingenium (UK) Limited:NULL:NULL:NULL
+UK:234:36:NULL:Cable and Wireless Isle of Man Limited:NULL:NULL:NULL
+UK:234:37:NULL:Synectiv Ltd:NULL:NULL:NULL
+UK:234:50:JT-Wave:Jersey Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:55:NULL:Cable & Wireless Guernsey / Sure Mobile (Jersey):营运中:GSM 900 (Guernsey) / GSM 1800 (Jersey) / UMTS 2100:NULL
+UK:234:58:NULL:Manx Telecom:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+UK:234:76:BT:BT Group:营运中:GSM 900 / GSM 1800:NULL
+UK:234:78:Airwave:Airwave (communications network):营运中:TETRA:NULL
+UK:235:00:NULL:Mundio Mobile Limited:NULL:NULL:NULL
+UK:235:01:NULL:Everything Everywhere Limited (TM):NULL:NULL:NULL
+UK:235:02:NULL:Everything Everywhere Limited (TM):NULL:NULL:NULL
+UK:235:77:BT:BT Group:NULL:NULL:NULL
+UK:235:91:NULL:Vodafone United Kingdom:NULL:NULL:NULL
+UK:235:92:NULL:Cable & Wireless UK:NULL:NULL:NULL
+UK:235:94:NULL:Hutchison 3G UK Ltd:NULL:NULL:NULL
+UK:235:95:NULL:Network Rail Infrastructure Limited:NULL:NULL:NULL
+US:310:053:NULL:Virgin Mobile US:营运中:CDMA2000 1900:NULL
+US:310:054:NULL:Alltel US:营运中:NULL:NULL
+US:310:066:NULL:U.S. Cellular:营运中:GSM AND CDMA:NULL
+US:310:004:Verizon:Verizon Wireless:营运中:NULL:NULL
+US:310:005:Verizon:Verizon Wireless:营运中:CDMA2000 850 / CDMA2000 1900:NULL
+US:310:010:NULL:MCI:非营运中:NULL:NULL
+US:310:012:Verizon:Verizon Wireless:营运中:CDMA2000 850 / CDMA2000 1900:NULL
+US:310:013:MobileTel:NULL:NULL:NULL:NULL
+US:310:014:NULL:Testing:营运中:NULL:NULL
+US:310:016:NULL:Cricket Communications:营运中:CDMA2000 1900 / CDMA2000 1700 / CDMA2000 2100:EV-DO
+US:310:017:NULL:North Sight Communications Inc.:营运中:NULL:NULL
+US:310:020:NULL:Union Telephone Company:营运中:GSM 850 / GSM 1900:Or APC Sprint Spectrum
+US:310:026:T-Mobile:NULL:营运中:GSM 1900 / UMTS 1700 / UMTS 2100:Formerly Cook Inlet Voicestream
+US:310:030:Centennial:Centennial Communications:营运中:GSM 850:NULL
+US:310:034:Airpeak:NULL:营运中:NULL:Formerly Nevada Wireless
+US:310:040:Concho:Concho Cellular Telephone Co., Inc.:营运中:GSM 1900:NULL
+US:310:046:SIMMETRY:TMP Corp:营运中:GSM 1900:NULL
+US:310:060:NULL:Consolidated Telcom:营运中:NULL:NULL
+US:310:070:NULL:Highland Cellular:营运中:NULL:Cellular One reseller
+US:310:080:Corr:Corr Wireless Communications LLC:营运中:GSM 1900:NULL
+US:310:090:AT&T:AT&T Mobility:营运中:GSM 1900 / UMTS 1900:Formerly 
+US:310:100:Plateau Wireless:New Mexico RSA 4 East Ltd. Partnership:营运中:GSM 850:NULL
+US:310:110:PTI Pacifica:PTI Pacifica Inc.:营运中:GSM 850:NULL
+US:310:120:Sprint:NULL:营运中:CDMA2000 1900:NULL
+US:310:150:AT&T:AT&T Mobility:非营运中:GSM 850 / UMTS 850 / UMTS 1900:Formerly 
+US:310:160:NULL:T-Mobile:非营运中:GSM 1900:NULL
+US:310:170:NULL:T-Mobile:非营运中:GSM 1900:Formerly 
+US:310:180:West Central:West Central Wireless:营运中:GSM 850 / UMTS 850 / UMTS 1900:NULL
+US:310:190:Dutch Harbor:Alaska Wireless Communications, LLC:营运中:GSM 850:NULL
+US:310:200:NULL:T-Mobile:非营运中:GSM 1900:Formerly Smith Bagley
+US:310:210:NULL:T-Mobile:非营运中:GSM 1900:Iowa
+US:310:220:NULL:T-Mobile:非营运中:GSM 1900:Kansas / Oklahoma
+US:310:230:NULL:T-Mobile:非营运中:GSM 1900:Utah
+US:310:240:NULL:T-Mobile:非营运中:GSM 1900:New Mexico / Texas / Arizona
+US:310:250:NULL:T-Mobile:非营运中:GSM 1900:Hawaii
+US:310:260:NULL:T-Mobile:营运中:GSM 1900 / UMTS 1700 / UMTS 2100:Universal USA code
+US:310:270:NULL:T-Mobile:非营运中:GSM 1900:Formerly Powertel
+US:310:280:NULL:T-Mobile:非营运中:GSM 1900:NULL
+US:310:290:NULL:T-Mobile:非营运中:GSM 1900:NULL
+US:310:300:iSmart Mobile:Smart Call (Truphone):营运中:GSM 1900:NULL
+US:310:310:NULL:T-Mobile:非营运中:GSM 1900:Formerly Aerial Communications
+US:310:311:NULL:Farmers Wireless:营运中:GSM 1900:NULL
+US:310:320:Cellular One:Smith Bagley, Inc.:营运中:GSM 850 / GSM 1900:NULL
+US:310:330:T-Mobile:NULL:非营运中:GSM 1900:NULL
+US:310:340:Westlink:Westlink Communications:营运中:GSM 1900:Kansas
+US:310:350:NULL:Carolina Phone:非营运中:GSM 1900:NULL
+US:310:380:AT&T:AT&T Mobility:非营运中:GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900:Formerly 
+US:310:390:Cellular One of East Texas:TX-11 Acquisition, LLC:营运中:GSM 850:NULL
+US:310:400:i CAN_GSM:Wave Runner LLC (Guam):营运中:GSM 1900:NULL
+US:310:410:AT&T:AT&T Mobility:营运中:GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900:Formerly 
+US:310:420:Cincinnati Bell:Cincinnati Bell Wireless:营运中:GSM 1900:NULL
+US:310:430:NULL:Alaska Digitel:营运中:GSM 1900:NULL
+US:310:440:Cellular One:NULL:NULL:GSM 1900:NULL
+US:310:450:Viaero:Viaero Wireless:营运中:GSM 850:NULL
+US:310:460:Simmetry:TMP Corporation:营运中:GSM 1900:NULL
+US:310:470:nTelos:NULL:营运中:CDMA2000 1900:Note that 310-470 is presented on this page as also being used by Guamcell
+US:310:480:NULL:Choice Phone:营运中:NULL:NULL
+US:310:490:T-Mobile:NULL:营运中:GSM 850 / GSM 1900:Formerly 
+US:310:500:Alltel:NULL:营运中:CDMA2000 800 / CDMA2000 1900:EV-DO
+US:310:510:Airtel:Airtel Wireless:营运中:NULL:Formerly PSC Wireless
+US:310:520:VeriSign:NULL:NULL:NULL:NULL
+US:310:530:NULL:West Virginia Wireless:营运中:NULL:NULL
+US:310:540:Oklahoma Western:Oklahoma Western Telephone Company:营运中:GSM 1900:NULL
+US:310:560:AT&T:AT&T Mobility:营运中:GSM 850:Formerly Cellular One DCS, Dobson
+US:310:570:Cellular One:MTPCS, LLC:营运中:GSM 1900:Formerly Chinook Wireless
+US:310:580:T-Mobile:NULL:非营运中:NULL:Formerly PCS One
+US:310:590:Alltel:Alltel Communications Inc:营运中:GSM 850 / GSM 1900:GSM roamer network only
+US:310:610:Epic Touch:Elkhart Telephone Co.:营运中:GSM 1900:NULL
+US:310:620:Coleman County Telecom:Coleman County Telecommunications:营运中:GSM 1900:NULL
+US:310:630:AmeriLink PCS:Choice Wireless:营运中:GSM 1900:NULL
+US:310:640:Airadigm:Airadigm Communications:营运中:GSM 1900:NULL
+US:310:650:Jasper:Jasper Wireless, inc:营运中:GSM 850:NULL
+US:310:660:T-Mobile:NULL:非营运中:GSM 1900:Formerly DigiPhone PCS / DigiPH
+US:310:670:Northstar:NULL:营运中:NULL:NULL
+US:310:680:AT&T:AT&T Mobility:营运中:GSM 850 / GSM 1900:Formerly Cellular One DCS, NPI Wireless
+US:310:690:Conestoga:Conestoga Wireless Company:营运中:NULL:NULL
+US:310:730:SeaMobile:NULL:营运中:NULL:NULL
+US:310:740:Convey:Convey Communications Inc.:营运中:NULL:NULL
+US:310:760:Panhandle:Panhandle Telecommunications Systems Inc.:营运中:NULL:NULL
+US:310:770:i wireless:Iowa Wireless Services:营运中:GSM 1900:NULL
+US:310:780:NULL:Airlink PCS:非营运中:NULL:NULL
+US:310:790:PinPoint:PinPoint Communications:营运中:GSM 1900:NULL
+US:310:800:NULL:T-Mobile:非营运中:GSM 1900:Formerly SOL Communications
+US:310:830:Caprock:Caprock Cellular:营运中:GSM 850:NULL
+US:310:840:telna Mobile:Telecom North America Mobile, Inc.:营运中:GSM 1900:NULL
+US:310:850:Aeris:Aeris Communications, Inc.:营运中:CDMA2000 850 / CDMA2000 1900 / GSM 850 / GSM 1900:NULL
+US:310:870:PACE:Kaplan Telephone Company:营运中:GSM 850:NULL
+US:310:880:Advantage:Advantage Cellular Systems:营运中:GSM 850:NULL
+US:310:890:Unicel:Rural Cellular Corporation:营运中:GSM 850 / GSM 1900:Former Unicel markets split between AT&T Mobility and Verizon Wireless.
+US:310:900:Mid-Rivers Wireless:Mid-Rivers Communications:营运中:CDMA2000 850 / CDMA2000 1900:Assigned 3/1/2010
+US:310:910:First Cellular:First Cellular of Southern Illinois:营运中:GSM 850:NULL
+US:310:940:NULL:Iris Wireless LLC:营运中:NULL:NULL
+US:310:950:XIT Wireless:Texas RSA 1 dba XIT Cellular:营运中:GSM 850:NULL
+US:310:960:Plateau Wireless:NULL:营运中:NULL:NULL
+US:310:970:Globalstar:NULL:营运中:Satellite:NULL
+US:310:980:NULL:AT&T Mobility:非营运中:GSM 850 / UMTS 850 / UMTS 1900:NULL
+US:310:990:NULL:AT&T Mobility:非营运中:NULL:NULL
+US:311:000:NULL:Mid-Tex Cellular:营运中:CDMA2000 850 / CDMA2000 1900:NULL
+US:311:010:Chariton Valley:Chariton Valley Communications:营运中:GSM 1900:NULL
+US:311:020:NULL:Missouri RSA 5 Partnership:营运中:GSM 850:NULL
+US:311:030:NULL:Indigo Wireless:营运中:GSM 1900:NULL
+US:311:040:NULL:Commnet Wireless:营运中:GSM 850 / GSM 1900:NULL
+US:311:050:NULL:Wikes Cellular:营运中:GSM 850 / GSM 1900:NULL
+US:311:060:Farmers Cellular:Farmers Cellular Telephone:营运中:GSM 850 / GSM 1900:NULL
+US:311:070:Easterbrooke:Easterbrooke Cellular Corporation:营运中:GSM 850:NULL
+US:311:080:Pine Cellular:Pine Telephone Company:营运中:GSM 850:NULL
+US:311:090:Long Lines Wireless:Long Lines Wireless LLC:营运中:GSM 1900:NULL
+US:311:100:NULL:High Plains Wireless:营运中:GSM 1900:NULL
+US:311:110:NULL:High Plains Wireless:营运中:GSM 1900:NULL
+US:311:120:NULL:Choice Phone:营运中:NULL:NULL
+US:311:130:NULL:Cell One Amarillo:营运中:GSM 850:NULL
+US:311:140:Sprocket:MBO Wireless:营运中:NULL:NULL
+US:311:150:NULL:Wilkes Cellular:营运中:GSM 850:NULL
+US:311:160:NULL:Endless Mountains Wireless:营运中:NULL:NULL
+US:311:170:PetroCom:Broadpoint Inc:营运中:GSM 850:Maritime
+US:311:180:NULL:Cingular Wireless:非营运中:GSM 850 / UMTS 850 / UMTS 1900:NULL
+US:311:190:NULL:Cellular Properties:NULL:NULL:NULL
+US:311:210:NULL:Emery Telcom Wireless:营运中:GSM 1900 / UMTS 2100:Formerly Farmers Cellular
+US:311:220:NULL:U.S. Cellular:营运中:NULL:NULL
+US:311:230:NULL:C Spire Wireless:营运中:NULL:Formerly Cellular South
+US:311:330:Bug Tussel Wireless:Bug Tussel Wireless:营运中:NULL:NULL
+US:311:480:Verizon:Verizon Wireless:营运中:LTE 700MHz C Block (4G LTE Network):NULL
+US:311:481-9:Verizon:Verizon Wireless:非营运中:LTE 700:C Block for future use.
+US:311:660:metroPCS:metroPCS:营运中:CDMA2000 1900 / CDMA 2000 LTE/AWS 1700:1X EV-DO Rev.A in approx. 33% CDMA 1900 Markets. LTE/AWS 1700 uses 1700 MHz as downlink and 2100 MHz as uplink.
+US:313:100:700 MHz Public Safety Broadband:NULL:Unknown:700 MHz Public Safety Broadband:D Block for future use
+US:316:010:Nextel:Nextel Communications:营运中:iDEN 800:Merged with Sprint forming Sprint Nextel
+US:316:011:NULL:Southern Communications Services:营运中:iDEN 800:NULL
+UY:748:01:Antel:Compania estatal (ANTEL):营运中:GSM 900/1800/ UMTS 850/2100:NULL
+UY:748:07:Movistar:Telefónica Móviles Uruguay:营运中:GSM 850/1900 / UMTS 850:NULL
+UY:748:10:Claro UY:AM Wireless Uruguay S.A.:营运中:GSM/UMTS 1900:NULL
+UZ:434:01:NULL:Buztel:非营运中:GSM 900 / GSM 1800:NULL
+UZ:434:02:NULL:Uzmacom:非营运中:GSM 900 / GSM 1800:NULL
+UZ:434:04:Beeline:Unitel LLC:营运中:GSM 900 / GSM 1800:NULL
+UZ:434:05:Ucell:Coscom:营运中:GSM 900 / GSM 1800:NULL
+UZ:434:06:Perfectum Mobile:RWC:营运中:CDMA2000 800:NULL
+UZ:434:07:MTS:Uzdunrobita:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+VU:541:01:SMILE:Telecom Vanuatu Ltd:营运中:GSM 900:NULL
+VA:225:(null):NULL:NULL:非营运中:NULL:The Vatican is served by Italian networks 
+VE:734:01:Digitel:Corporacion Digitel C.A.:营运中:GSM 900 / UMTS 900:Formerly INFONET
+VE:734:02:Digitel:Corporacion Digitel C.A.:营运中:GSM 900 / UMTS 900:NULL
+VE:734:03:Digitel:Corporacion Digitel C.A.:营运中:GSM 900 / UMTS 900:Formerly DIGICEL
+VE:734:04:movistar:Telefónica Móviles Venezuela:营运中:CDMA2000 850 / GSM 850 / UMTS 1900:NULL
+VE:734:06:Movilnet:Telecomunicaciones Movilnet:营运中:CDMA2000 850 / GSM 850 / UMTS 1900:NULL
+VN:452:01:MobiFone:Vietnam Mobile Telecom Services Company (VMS):营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+VN:452:02:Vinaphone:Vietnam Telecom Services Company:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+VN:452:03:S-Fone:S-Telecom:营运中:CDMA2000 800:NULL
+VN:452:04:Viettel Mobile:Viettel Telecom:营运中:GSM 900 / GSM 1800 / UMTS 1900 / UMTS 2100:NULL
+VN:452:05:Vietnamobile:Hanoi Telecom:营运中:GSM 900 / UMTS 1900 / UMTS 2100:NULL
+VN:452:06:EVNTelecom:EVNTelecom - EVN:营运中:CDMA2000 450:NULL
+VN:452:08:3G EVNTelecom:EVNTelecom - EVN:营运中:UMTS 1900 / UMTS 2100:NULL
+VN:452:07:Beeline VN:GTEL Mobile JSC:营运中:GSM 1800:NULL
+YE:421:01:SabaFon:NULL:营运中:GSM 900:NULL
+YE:421:02:MTN:SpaceTel:营运中:GSM 900:NULL
+YE:421:03:Yemen Mobile:Yemen Mobile:营运中:CDMA2000 800:Yemen Telecom transformation road(PDF)
+YE:421:04:HiTS-UNITEL:Y:营运中:GSM 900:NULL
+ZM:645:01:Airtel:Bharti Airtel:营运中:GSM 900:Former 
+ZM:645:02:MTN:MTN Group:营运中:GSM 900:Former 
+ZM:645:03:ZAMTEL:Zambia Telecommunications Company Ltd:营运中:GSM 900:NULL
+ZW:648:01:Net*One:Net*One Cellular (Pvt) Ltd:营运中:GSM 900:NULL
+ZW:648:03:Telecel:Telecel Zimbabwe (PVT) Ltd:营运中:GSM 900:NULL
+ZW:648:04:Econet:Econet Wireless (Private) Limited:营运中:GSM 900 / GSM 1800 / UMTS 2100:NULL
+国际:901:01:ICO:ICO Satellite Management:营运中:Satellite:NULL
+国际:901:02:NULL:Sense Communications International:营运中:NULL:NULL
+国际:901:03:Iridium:NULL:营运中:Satellite:NULL
+国际:901:04:Globalstar:NULL:营运中:Satellite:NULL
+国际:901:05:NULL:Thuraya:营运中:Satellite:NULL
+国际:901:06:NULL:Thuraya:营运中:Satellite:NULL
+国际:901:07:Ellipso:NULL:营运中:NULL:NULL
+国际:901:08:NULL:NULL:营运中:NULL:Reserved for station identification where the mobile does not have a subscription IMSI
+国际:901:09:NULL:Tele1 Europe:营运中:NULL:NULL
+国际:901:10:ACeS:NULL:营运中:Satellite:NULL
+国际:901:11:Inmarsat:NULL:营运中:Satellite:NULL
+国际:901:12:Telenor:Maritime Communications Partner AS:营运中:GSM 1800:Maritime 
+国际:901:13:GSM.AQ:Global Networks Switzerland Inc.:营运中:GSM 1800:Antarctica
+国际:901:14:NULL:AeroMobile AS:NULL:GSM 1800:Air
+国际:901:15:NULL:OnAir Switzerland Sarl:NULL:GSM 1800:Air
+国际:901:16:NULL:Jasper Systems:营运中:NULL:Global SIM 
+国际:901:17:Navitas:NULL:营运中:GSM 1800:Maritime 
+国际:901:18:Cellular @Sea:AT&T Mobility:营运中:GSM 900 / GSM 1900 / CDMA2000 1900:Maritime 
+国际:901:19:NULL:Vodafone Malta:营运中:NULL:NULL
+国际:901:21:Seanet:Seanet Maritime Communications:营运中:GSM 1800:Maritime 
+国际:901:23:NULL:Beeline:NULL:NULL:NULL
+国际:901:24:iNum:Voxbone:NULL:NULL:NULL
+国际:901:26:TIM:Telecom Italia:营运中:NULL:NULL
+国际:901:28:Vodafone:GDSP:NULL:Roaming SIM:NULL
+国际:901:29:Telenor:NULL:NULL:NULL:NULL
+国际:901:18f:Vision of the Seas:NULL:营运中:GSM 900 850 1800 1900:NULL
+国际:901:32:Sky High:MegaFon:营运中:GSM 900:NULL

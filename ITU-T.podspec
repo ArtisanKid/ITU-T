@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ITU-T/Classes/**/*'
+  s.source_files = 'ITU-T/Classes/**/*.{h,m}'
   
   # s.resource_bundles = {
   #   'ITU-T' => ['ITU-T/Assets/*.png']
@@ -39,4 +39,11 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+
+  s.subspec 'E212' do |sp|
+    sp.source_files = 'ITU-T/Classes/E212/**/*.{h,m}'
+    sp.resource = 'ITU-T/Classes/E212/ITU移动设备信息.txt'
+    sp.preserve_paths = 'ITU-T/Classes/E212/*.{md,doc,docx,pdf}'
+    sp.dependency 'ISO3166'
+  end
 end
